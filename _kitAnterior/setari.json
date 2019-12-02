@@ -1,0 +1,44 @@
+{
+  "mysqlConfig": {
+    "host": "localhost",
+    "user": "root",
+    "password": "1",
+    "database": "s1124988",
+    "connectionLimit": 10,
+    "queueLimit": 0,
+    "waitForConnections": true
+  },
+  "serialPortLungime": {
+    "port": "COM3",
+      "options": {
+        "baudRate": 9600,
+        "parity": "even",
+        "dataBits": 8,
+        "stopBits": 1
+    }
+  },
+  "serialPortGreutate": {
+    "port": "COM4",
+      "options": {
+        "baudRate": 2400,
+        "parity": "none",
+        "dataBits": 8,
+        "stopBits": 1
+    }
+  },
+  "urlsyncCloud": "https://suport.san.ro/viewer/report/Test/sync.jsp",
+  "bobina_CSV": {
+    "pathTMP":"c:/SanCloud/generatedReels/",
+    "path_WMS":"c:/eticheta/",
+    "localSave":"c:/_Productie/BobineCSV/"
+  },
+  "pathToTraductoriEvents": "c:/SanCloud/serialEvents/",
+  "pathToTemp": "c:\\SanCloud\\tmp\\",
+  "pathToPrintSerial": "c:/temp/",
+  "pathToBackup": [
+    "c:/SanCloud/backups/"    
+  ],
+ "pathRaports": [
+    "c:/_Productie/Raportari/"
+  ]
+}

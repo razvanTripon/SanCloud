@@ -1,0 +1,19 @@
+http://127.0.0.1:8080/viewer/EcoPaper/eticheta.jsp?barcode=*1234567*&uid=92f33e9e7&selectedDate=08/01/2007&firmaSig=imar
+
+
+
+
+parametrii:
+	uid	- uid cantarire
+	barcode
+
+
+
+
+cantarire.cod_produs=nomp.codp -> nomp.par=nomp.codp -> denumire(sortiment) gramaj(substanta)
+
+Cantarire.bobina=planificare.uid
+
+planificare
+	client 		- cf din nomf
+	nr_comanda 	- cod din noml

@@ -1,0 +1,134 @@
+2019-11-19 16:33:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\SanCloud\node_modules\node-windows\lib\wrapper.js --file C:\SanCloud\server.js --log "SanCloud wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-11-19 16:33:36 - Started 9068
+2019-11-19 22:56:48 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\SanCloud\node_modules\node-windows\lib\wrapper.js --file C:\SanCloud\server.js --log "SanCloud wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-11-19 22:56:48 - Started 4808
+2019-11-20 07:53:17 - Stopping sancloud.exe
+2019-11-20 07:53:17 - ProcessKill 4808
+2019-11-20 07:53:17 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2019-11-20 07:53:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\SanCloud\node_modules\node-windows\lib\wrapper.js --file C:\SanCloud\server.js --log "SanCloud wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-11-20 07:53:36 - Started 4680
+2019-11-20 09:16:09 - Stopping sancloud.exe
+2019-11-20 09:16:09 - ProcessKill 4680
+2019-11-20 09:16:09 - Found child process: 4720 Name: conhost.exe
+2019-11-20 09:16:09 - Found child process: 5152 Name: node.exe
+2019-11-20 09:16:09 - Stopping process 4720
+2019-11-20 09:16:09 - Send SIGINT 4720
+2019-11-20 09:16:10 - SIGINT to 4720 failed - Killing as fallback
+2019-11-20 09:16:10 - Stopping process 5152
+2019-11-20 09:16:10 - Send SIGINT 5152
+2019-11-20 09:16:10 - SIGINT to 5152 failed - Killing as fallback
+2019-11-20 09:16:10 - Stopping process 4680
+2019-11-20 09:16:10 - Send SIGINT 4680
+2019-11-20 09:16:10 - SIGINT to 4680 failed - Killing as fallback
+2019-11-20 09:16:10 - Finished sancloud.exe
+2019-11-20 09:16:13 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\SanCloud\node_modules\node-windows\lib\wrapper.js --file C:\SanCloud\server.js --log "SanCloud wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-11-20 09:16:13 - Started 8372
+2019-11-20 09:18:47 - Stopping sancloud.exe
+2019-11-20 09:18:47 - ProcessKill 8372
+2019-11-20 09:18:47 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2019-11-20 09:19:07 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\SanCloud\node_modules\node-windows\lib\wrapper.js --file C:\SanCloud\server.js --log "SanCloud wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-11-20 09:19:07 - Started 4672
+2019-11-20 09:24:04 - Stopping sancloud.exe
+2019-11-20 09:24:04 - ProcessKill 4672
+2019-11-20 09:24:04 - Found child process: 4684 Name: conhost.exe
+2019-11-20 09:24:04 - Found child process: 4712 Name: node.exe
+2019-11-20 09:24:04 - Stopping process 4684
+2019-11-20 09:24:04 - Send SIGINT 4684
+2019-11-20 09:24:04 - SIGINT to 4684 failed - Killing as fallback
+2019-11-20 09:24:04 - Stopping process 4712
+2019-11-20 09:24:04 - Send SIGINT 4712
+2019-11-20 09:24:04 - SIGINT to 4712 failed - Killing as fallback
+2019-11-20 09:24:04 - Stopping process 4672
+2019-11-20 09:24:04 - Send SIGINT 4672
+2019-11-20 09:24:04 - SIGINT to 4672 failed - Killing as fallback
+2019-11-20 09:24:04 - Finished sancloud.exe
+2019-11-20 09:24:07 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\SanCloud\node_modules\node-windows\lib\wrapper.js --file C:\SanCloud\server.js --log "SanCloud wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-11-20 09:24:07 - Started 10356
+2019-11-20 09:25:36 - Stopping sancloud.exe
+2019-11-20 09:25:36 - ProcessKill 10356
+2019-11-20 09:25:36 - Found child process: 12160 Name: conhost.exe
+2019-11-20 09:25:36 - Found child process: 7636 Name: node.exe
+2019-11-20 09:25:36 - Stopping process 12160
+2019-11-20 09:25:36 - Send SIGINT 12160
+2019-11-20 09:25:36 - SIGINT to 12160 failed - Killing as fallback
+2019-11-20 09:25:36 - Stopping process 7636
+2019-11-20 09:25:36 - Send SIGINT 7636
+2019-11-20 09:25:36 - SIGINT to 7636 failed - Killing as fallback
+2019-11-20 09:25:36 - Stopping process 10356
+2019-11-20 09:25:36 - Send SIGINT 10356
+2019-11-20 09:25:36 - SIGINT to 10356 failed - Killing as fallback
+2019-11-20 09:25:36 - Finished sancloud.exe
+2019-11-20 09:25:40 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\SanCloud\node_modules\node-windows\lib\wrapper.js --file C:\SanCloud\server.js --log "SanCloud wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-11-20 09:25:40 - Started 2872
+2019-11-20 09:26:40 - Stopping sancloud.exe
+2019-11-20 09:26:40 - ProcessKill 2872
+2019-11-20 09:26:40 - Found child process: 6000 Name: conhost.exe
+2019-11-20 09:26:40 - Found child process: 6780 Name: node.exe
+2019-11-20 09:26:40 - Stopping process 6000
+2019-11-20 09:26:40 - Send SIGINT 6000
+2019-11-20 09:26:40 - SIGINT to 6000 failed - Killing as fallback
+2019-11-20 09:26:40 - Stopping process 6780
+2019-11-20 09:26:40 - Send SIGINT 6780
+2019-11-20 09:26:40 - SIGINT to 6780 failed - Killing as fallback
+2019-11-20 09:26:40 - Stopping process 2872
+2019-11-20 09:26:40 - Send SIGINT 2872
+2019-11-20 09:26:40 - SIGINT to 2872 failed - Killing as fallback
+2019-11-20 09:26:40 - Finished sancloud.exe
+2019-11-20 09:26:42 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\SanCloud\node_modules\node-windows\lib\wrapper.js --file C:\SanCloud\server.js --log "SanCloud wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-11-20 09:26:42 - Started 2448
+2019-11-20 09:36:18 - Stopping sancloud.exe
+2019-11-20 09:36:18 - ProcessKill 2448
+2019-11-20 09:36:18 - Found child process: 2736 Name: conhost.exe
+2019-11-20 09:36:18 - Found child process: 11684 Name: node.exe
+2019-11-20 09:36:18 - Stopping process 2736
+2019-11-20 09:36:18 - Send SIGINT 2736
+2019-11-20 09:36:18 - SIGINT to 2736 failed - Killing as fallback
+2019-11-20 09:36:18 - Stopping process 11684
+2019-11-20 09:36:18 - Send SIGINT 11684
+2019-11-20 09:36:18 - SIGINT to 11684 failed - Killing as fallback
+2019-11-20 09:36:18 - Stopping process 2448
+2019-11-20 09:36:18 - Send SIGINT 2448
+2019-11-20 09:36:18 - SIGINT to 2448 failed - Killing as fallback
+2019-11-20 09:36:18 - Finished sancloud.exe
+2019-11-20 09:47:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\SanCloud\node_modules\node-windows\lib\wrapper.js --file C:\SanCloud\server.js --log "SanCloud wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-11-20 09:47:36 - Started 7668
+2019-11-22 03:59:47 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\SanCloud\node_modules\node-windows\lib\wrapper.js --file C:\SanCloud\server.js --log "SanCloud wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-11-22 03:59:47 - Started 4916
+2019-11-28 04:53:50 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\SanCloud\node_modules\node-windows\lib\wrapper.js --file C:\SanCloud\server.js --log "SanCloud wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-11-28 04:53:50 - Started 5052
+2019-11-28 10:05:34 - Stopping sancloud.exe
+2019-11-28 10:05:34 - ProcessKill 5052
+2019-11-28 10:05:34 - Found child process: 5064 Name: conhost.exe
+2019-11-28 10:05:34 - Found child process: 5256 Name: node.exe
+2019-11-28 10:05:34 - Stopping process 5064
+2019-11-28 10:05:34 - Send SIGINT 5064
+2019-11-28 10:05:34 - SIGINT to 5064 failed - Killing as fallback
+2019-11-28 10:05:34 - Stopping process 5256
+2019-11-28 10:05:34 - Send SIGINT 5256
+2019-11-28 10:05:34 - SIGINT to 5256 failed - Killing as fallback
+2019-11-28 10:05:34 - Stopping process 5052
+2019-11-28 10:05:35 - Send SIGINT 5052
+2019-11-28 10:05:35 - SIGINT to 5052 failed - Killing as fallback
+2019-11-28 10:05:35 - Finished sancloud.exe

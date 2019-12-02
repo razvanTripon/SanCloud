@@ -1,0 +1,1581 @@
+2019-11-19 16:33:37.570 Server started at port 3000!
+2019-11-19 16:34:31.306 Port Lungime conectat
+2019-11-19 16:34:31.308 Port greutate conectat
+2019-11-19 16:34:42.036 Port lungime inchis normal
+2019-11-19 16:34:42.066 Port cantitate inchis normal
+2019-11-19 16:34:46.225 Port Lungime conectat
+2019-11-19 16:34:46.228 Port greutate conectat
+2019-11-19 16:34:50.022 Port lungime inchis normal
+2019-11-19 16:34:50.053 Port cantitate inchis normal
+2019-11-19 16:34:54.342 Port greutate conectat
+2019-11-19 16:34:54.345 Port Lungime conectat
+2019-11-19 16:35:04.273 Port lungime inchis normal
+2019-11-19 16:35:04.304 Port cantitate inchis normal
+2019-11-19 16:35:09.242 Port Lungime conectat
+2019-11-19 16:35:09.246 Port greutate conectat
+2019-11-19 16:35:21.691 Port lungime inchis normal
+2019-11-19 16:35:21.721 Port cantitate inchis normal
+2019-11-19 17:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-19 17:00:00.004 cron DB backup!!!!!!!!!!!!
+2019-11-19 17:00:08.162 cron backup executat cu succes s1124988_2019_11_19 17_00_00.005.gz
+2019-11-19 17:00:08.556 DB Syncronizare cloud reusita
+2019-11-19 17:30:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-19 18:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-19 18:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-19 18:00:08.120 cron backup executat cu succes s1124988_2019_11_19 18_00_00.003.gz
+2019-11-19 18:00:08.480 DB Syncronizare cloud reusita
+2019-11-19 18:20:06.854 Port greutate conectat
+2019-11-19 18:20:06.854 Port Lungime conectat
+2019-11-19 18:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-19 19:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-19 19:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-19 19:00:08.145 cron backup executat cu succes s1124988_2019_11_19 19_00_00.002.gz
+2019-11-19 19:00:08.510 DB Syncronizare cloud reusita
+2019-11-19 19:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-19 20:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-19 20:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-19 20:00:08.104 cron backup executat cu succes s1124988_2019_11_19 20_00_00.001.gz
+2019-11-19 20:00:08.488 DB Syncronizare cloud reusita
+2019-11-19 20:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-19 21:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-19 21:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-19 21:00:08.160 cron backup executat cu succes s1124988_2019_11_19 21_00_00.002.gz
+2019-11-19 21:00:08.513 DB Syncronizare cloud reusita
+2019-11-19 21:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-19 22:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-19 22:00:00.007 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-19 22:00:08.109 cron backup executat cu succes s1124988_2019_11_19 22_00_00.002.gz
+2019-11-19 22:00:08.486 DB Syncronizare cloud reusita
+2019-11-19 22:56:49.972 Server started at port 3000!
+2019-11-19 22:58:14.827 Port Lungime conectat
+2019-11-19 22:58:14.830 Port greutate conectat
+2019-11-19 23:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-19 23:00:00.007 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-19 23:00:08.202 cron backup executat cu succes s1124988_2019_11_19 23_00_00.002.gz
+2019-11-19 23:00:08.673 DB Syncronizare cloud reusita
+2019-11-19 23:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 00:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-20 00:00:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 00:00:08.138 cron backup executat cu succes s1124988_2019_11_20 00_00_00.001.gz
+2019-11-20 00:00:08.485 DB Syncronizare cloud reusita
+2019-11-20 00:29:21.573 Port lungime inchis normal
+2019-11-20 00:29:21.602 Port cantitate inchis normal
+2019-11-20 00:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 00:32:46.245 Port greutate conectat
+2019-11-20 00:32:46.245 Port Lungime conectat
+2019-11-20 01:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-20 01:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 01:00:08.118 cron backup executat cu succes s1124988_2019_11_20 01_00_00.001.gz
+2019-11-20 01:00:08.469 DB Syncronizare cloud reusita
+2019-11-20 01:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 01:36:25.957 Port lungime inchis normal
+2019-11-20 01:36:25.986 Port cantitate inchis normal
+2019-11-20 01:36:26.571 Port greutate conectat
+2019-11-20 01:36:26.574 Port Lungime conectat
+2019-11-20 01:36:31.620 Port lungime inchis normal
+2019-11-20 01:36:31.651 Port cantitate inchis normal
+2019-11-20 01:36:59.625 Port Lungime conectat
+2019-11-20 01:36:59.628 Port greutate conectat
+2019-11-20 01:37:07.518 Port lungime inchis normal
+2019-11-20 01:37:07.548 Port cantitate inchis normal
+2019-11-20 01:38:43.730 Port Lungime conectat
+2019-11-20 01:38:43.733 Port greutate conectat
+2019-11-20 02:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-20 02:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 02:00:08.088 cron backup executat cu succes s1124988_2019_11_20 02_00_00.002.gz
+2019-11-20 02:00:08.448 DB Syncronizare cloud reusita
+2019-11-20 02:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 03:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-20 03:00:00.008 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 03:00:08.179 cron backup executat cu succes s1124988_2019_11_20 03_00_00.002.gz
+2019-11-20 03:00:08.583 DB Syncronizare cloud reusita
+2019-11-20 03:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 04:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-20 04:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 04:00:08.108 cron backup executat cu succes s1124988_2019_11_20 04_00_00.001.gz
+2019-11-20 04:00:08.560 DB Syncronizare cloud reusita
+2019-11-20 04:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 05:00:00.000 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 05:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-20 05:00:08.158 cron backup executat cu succes s1124988_2019_11_20 05_00_00.001.gz
+2019-11-20 05:00:09.173 DB Syncronizare cloud reusita
+2019-11-20 05:30:00.000 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 06:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 06:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-20 06:00:08.135 cron backup executat cu succes s1124988_2019_11_20 06_00_00.002.gz
+2019-11-20 06:00:08.691 DB Syncronizare cloud reusita
+2019-11-20 06:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 07:00:00.001 generate raports !!!!!!!!!!!!
+2019-11-20 07:00:00.004 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 07:00:00.004 cron DB backup!!!!!!!!!!!!
+2019-11-20 07:00:08.125 cron backup executat cu succes s1124988_2019_11_20 07_00_00.005.gz
+2019-11-20 07:00:08.479 DB Syncronizare cloud reusita
+2019-11-20 07:08:43.282 Port lungime inchis normal
+2019-11-20 07:08:43.312 Port cantitate inchis normal
+2019-11-20 07:08:44.456 Port greutate conectat
+2019-11-20 07:08:44.456 Port Lungime conectat
+2019-11-20 07:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 07:52:44.961 Port lungime inchis normal
+2019-11-20 07:52:44.993 Port cantitate inchis normal
+2019-11-20 07:53:39.783 Server started at port 3000!
+2019-11-20 07:54:04.089 Port greutate conectat
+2019-11-20 07:54:04.090 Port Lungime conectat
+2019-11-20 07:55:18.819 Port lungime inchis normal
+2019-11-20 07:55:18.850 Port cantitate inchis normal
+2019-11-20 07:55:50.890 Port Lungime conectat
+2019-11-20 07:55:50.892 Port greutate conectat
+2019-11-20 07:57:29.626 Port lungime inchis normal
+2019-11-20 07:57:29.658 Port cantitate inchis normal
+2019-11-20 07:57:39.313 Port Lungime conectat
+2019-11-20 07:57:39.314 Port greutate conectat
+2019-11-20 08:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 08:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-20 08:00:08.342 cron backup executat cu succes s1124988_2019_11_20 08_00_00.004.gz
+2019-11-20 08:00:08.818 DB Syncronizare cloud reusita
+2019-11-20 08:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 08:54:46.691 Port lungime inchis normal
+2019-11-20 08:54:46.722 Port cantitate inchis normal
+2019-11-20 08:54:55.152 Port Lungime conectat
+2019-11-20 08:54:55.155 Port greutate conectat
+2019-11-20 08:55:00.067 Port lungime inchis normal
+2019-11-20 08:55:00.097 Port cantitate inchis normal
+2019-11-20 08:55:11.675 Port Lungime conectat
+2019-11-20 08:55:11.675 Port greutate conectat
+2019-11-20 08:55:55.930 Port lungime inchis normal
+2019-11-20 08:55:55.960 Port cantitate inchis normal
+2019-11-20 08:56:07.674 Port Lungime conectat
+2019-11-20 08:56:07.674 Port greutate conectat
+2019-11-20 09:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 09:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-20 09:00:08.445 cron backup executat cu succes s1124988_2019_11_20 09_00_00.002.gz
+2019-11-20 09:00:08.807 DB Syncronizare cloud reusita
+2019-11-20 09:16:14.023 Server started at port 3000!
+2019-11-20 09:16:14.121 Port Lungime conectat
+2019-11-20 09:16:14.123 Port greutate conectat
+2019-11-20 09:18:43.959 Port lungime inchis normal
+2019-11-20 09:18:43.988 Port cantitate inchis normal
+2019-11-20 09:19:09.447 Server started at port 3000!
+2019-11-20 09:19:27.638 Port greutate conectat
+2019-11-20 09:19:27.638 Port Lungime conectat
+2019-11-20 09:24:08.303 Server started at port 3000!
+2019-11-20 09:24:08.410 Port greutate conectat
+2019-11-20 09:24:08.412 Port Lungime conectat
+2019-11-20 09:24:16.022 Port lungime inchis normal
+2019-11-20 09:24:16.053 Port cantitate inchis normal
+2019-11-20 09:24:18.049 Port Lungime conectat
+2019-11-20 09:24:18.052 Port greutate conectat
+2019-11-20 09:24:55.292 Port lungime inchis normal
+2019-11-20 09:24:55.322 Port cantitate inchis normal
+2019-11-20 09:25:07.819 Port greutate conectat
+2019-11-20 09:25:07.821 Port Lungime conectat
+2019-11-20 09:25:40.914 Server started at port 3000!
+2019-11-20 09:25:41.039 Port greutate conectat
+2019-11-20 09:25:41.041 Port Lungime conectat
+2019-11-20 09:26:43.501 Server started at port 3000!
+2019-11-20 09:26:43.530 Port Lungime conectat
+2019-11-20 09:26:43.530 Port greutate conectat
+2019-11-20 09:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 09:36:04.743 Port lungime inchis normal
+2019-11-20 09:36:04.773 Port cantitate inchis normal
+2019-11-20 09:47:37.333 Server started at port 3000!
+2019-11-20 09:48:24.162 Port Lungime conectat
+2019-11-20 09:48:24.165 Port greutate conectat
+2019-11-20 09:50:00.370 Port lungime inchis normal
+2019-11-20 09:50:00.401 Port cantitate inchis normal
+2019-11-20 09:50:10.228 Port Lungime conectat
+2019-11-20 09:50:10.228 Port greutate conectat
+2019-11-20 09:51:30.015 Port lungime inchis normal
+2019-11-20 09:51:30.044 Port cantitate inchis normal
+2019-11-20 09:51:54.266 Port Lungime conectat
+2019-11-20 09:51:54.267 Port greutate conectat
+2019-11-20 09:53:06.869 Port lungime inchis normal
+2019-11-20 09:53:06.899 Port cantitate inchis normal
+2019-11-20 09:53:26.406 Port greutate conectat
+2019-11-20 09:53:26.406 Port Lungime conectat
+2019-11-20 09:55:17.408 Port lungime inchis normal
+2019-11-20 09:55:17.439 Port cantitate inchis normal
+2019-11-20 09:56:46.415 Port Lungime conectat
+2019-11-20 09:56:46.415 Port greutate conectat
+2019-11-20 10:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 10:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-20 10:00:08.470 cron backup executat cu succes s1124988_2019_11_20 10_00_00.004.gz
+2019-11-20 10:00:08.877 DB Syncronizare cloud reusita
+2019-11-20 10:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 11:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 11:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-20 11:00:08.379 cron backup executat cu succes s1124988_2019_11_20 11_00_00.002.gz
+2019-11-20 11:00:08.725 DB Syncronizare cloud reusita
+2019-11-20 11:21:53.322 Port lungime inchis normal
+2019-11-20 11:21:53.353 Port cantitate inchis normal
+2019-11-20 11:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 11:31:31.204 Port greutate conectat
+2019-11-20 11:31:31.207 Port Lungime conectat
+2019-11-20 12:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-20 12:00:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 12:00:08.264 cron backup executat cu succes s1124988_2019_11_20 12_00_00.002.gz
+2019-11-20 12:00:08.665 DB Syncronizare cloud reusita
+2019-11-20 12:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 12:39:17.423 Port lungime inchis normal
+2019-11-20 12:39:17.454 Port cantitate inchis normal
+2019-11-20 12:39:19.848 Port Lungime conectat
+2019-11-20 12:39:19.851 Port greutate conectat
+2019-11-20 13:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-20 13:00:00.007 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 13:00:08.310 cron backup executat cu succes s1124988_2019_11_20 13_00_00.002.gz
+2019-11-20 13:00:08.726 DB Syncronizare cloud reusita
+2019-11-20 13:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 14:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 14:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-20 14:00:08.114 cron backup executat cu succes s1124988_2019_11_20 14_00_00.001.gz
+2019-11-20 14:00:08.507 DB Syncronizare cloud reusita
+2019-11-20 14:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 15:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 15:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-20 15:00:08.336 cron backup executat cu succes s1124988_2019_11_20 15_00_00.002.gz
+2019-11-20 15:00:08.732 DB Syncronizare cloud reusita
+2019-11-20 15:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 15:43:51.712 Port lungime inchis normal
+2019-11-20 15:43:51.743 Port cantitate inchis normal
+2019-11-20 15:49:53.167 Port greutate conectat
+2019-11-20 15:49:53.169 Port Lungime conectat
+2019-11-20 16:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 16:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-20 16:00:08.405 cron backup executat cu succes s1124988_2019_11_20 16_00_00.003.gz
+2019-11-20 16:00:08.782 DB Syncronizare cloud reusita
+2019-11-20 16:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 17:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-20 17:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 17:00:08.193 cron backup executat cu succes s1124988_2019_11_20 17_00_00.001.gz
+2019-11-20 17:00:08.563 DB Syncronizare cloud reusita
+2019-11-20 17:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 18:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-20 18:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 18:00:08.187 cron backup executat cu succes s1124988_2019_11_20 18_00_00.002.gz
+2019-11-20 18:00:08.623 DB Syncronizare cloud reusita
+2019-11-20 18:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 19:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 19:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-20 19:00:08.217 cron backup executat cu succes s1124988_2019_11_20 19_00_00.002.gz
+2019-11-20 19:00:08.585 DB Syncronizare cloud reusita
+2019-11-20 19:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 20:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-20 20:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 20:00:08.426 cron backup executat cu succes s1124988_2019_11_20 20_00_00.001.gz
+2019-11-20 20:00:08.810 DB Syncronizare cloud reusita
+2019-11-20 20:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 21:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-20 21:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 21:00:08.169 cron backup executat cu succes s1124988_2019_11_20 21_00_00.002.gz
+2019-11-20 21:00:08.592 DB Syncronizare cloud reusita
+2019-11-20 21:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 22:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 22:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-20 22:00:08.154 cron backup executat cu succes s1124988_2019_11_20 22_00_00.002.gz
+2019-11-20 22:00:08.554 DB Syncronizare cloud reusita
+2019-11-20 22:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 23:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-20 23:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-20 23:00:08.204 cron backup executat cu succes s1124988_2019_11_20 23_00_00.001.gz
+2019-11-20 23:00:08.579 DB Syncronizare cloud reusita
+2019-11-20 23:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 00:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 00:00:00.005 cron DB backup!!!!!!!!!!!!
+2019-11-21 00:00:08.117 cron backup executat cu succes s1124988_2019_11_21 00_00_00.005.gz
+2019-11-21 00:00:08.471 DB Syncronizare cloud reusita
+2019-11-21 00:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 01:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-21 01:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 01:00:08.411 cron backup executat cu succes s1124988_2019_11_21 01_00_00.001.gz
+2019-11-21 01:00:08.772 DB Syncronizare cloud reusita
+2019-11-21 01:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 02:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-21 02:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 02:00:08.159 cron backup executat cu succes s1124988_2019_11_21 02_00_00.002.gz
+2019-11-21 02:00:08.517 DB Syncronizare cloud reusita
+2019-11-21 02:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 03:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 03:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-21 03:00:08.214 cron backup executat cu succes s1124988_2019_11_21 03_00_00.002.gz
+2019-11-21 03:00:08.578 DB Syncronizare cloud reusita
+2019-11-21 03:09:02.903 Port lungime inchis normal
+2019-11-21 03:09:02.933 Port cantitate inchis normal
+2019-11-21 03:13:02.758 Port Lungime conectat
+2019-11-21 03:13:02.760 Port greutate conectat
+2019-11-21 03:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 04:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-21 04:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 04:00:08.137 cron backup executat cu succes s1124988_2019_11_21 04_00_00.001.gz
+2019-11-21 04:00:08.596 DB Syncronizare cloud reusita
+2019-11-21 04:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 05:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-21 05:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 05:00:08.124 cron backup executat cu succes s1124988_2019_11_21 05_00_00.001.gz
+2019-11-21 05:00:09.148 DB Syncronizare cloud reusita
+2019-11-21 05:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 06:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 06:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-21 06:00:08.144 cron backup executat cu succes s1124988_2019_11_21 06_00_00.001.gz
+2019-11-21 06:00:08.578 DB Syncronizare cloud reusita
+2019-11-21 06:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 07:00:00.001 generate raports !!!!!!!!!!!!
+2019-11-21 07:00:00.004 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 07:00:00.004 cron DB backup!!!!!!!!!!!!
+2019-11-21 07:00:08.170 cron backup executat cu succes s1124988_2019_11_21 07_00_00.004.gz
+2019-11-21 07:00:09.118 DB Syncronizare cloud reusita
+2019-11-21 07:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 08:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 08:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-21 08:00:08.118 cron backup executat cu succes s1124988_2019_11_21 08_00_00.002.gz
+2019-11-21 08:00:08.525 DB Syncronizare cloud reusita
+2019-11-21 08:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 09:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 09:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-21 09:00:08.374 cron backup executat cu succes s1124988_2019_11_21 09_00_00.005.gz
+2019-11-21 09:00:08.769 DB Syncronizare cloud reusita
+2019-11-21 09:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 09:55:35.151 Port lungime inchis normal
+2019-11-21 09:55:35.182 Port cantitate inchis normal
+2019-11-21 09:57:39.373 Port Lungime conectat
+2019-11-21 09:57:39.376 Port greutate conectat
+2019-11-21 10:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-21 10:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 10:00:08.195 cron backup executat cu succes s1124988_2019_11_21 10_00_00.001.gz
+2019-11-21 10:00:08.566 DB Syncronizare cloud reusita
+2019-11-21 10:01:06.591 Port lungime inchis normal
+2019-11-21 10:01:06.620 Port cantitate inchis normal
+2019-11-21 10:01:24.158 Port greutate conectat
+2019-11-21 10:01:24.158 Port Lungime conectat
+2019-11-21 10:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 11:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 11:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-21 11:00:08.161 cron backup executat cu succes s1124988_2019_11_21 11_00_00.002.gz
+2019-11-21 11:00:08.538 DB Syncronizare cloud reusita
+2019-11-21 11:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 11:46:38.752 Port lungime inchis normal
+2019-11-21 11:46:38.783 Port cantitate inchis normal
+2019-11-21 11:47:56.663 Port greutate conectat
+2019-11-21 11:47:56.665 Port Lungime conectat
+2019-11-21 12:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 12:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-21 12:00:08.194 cron backup executat cu succes s1124988_2019_11_21 12_00_00.003.gz
+2019-11-21 12:00:08.571 DB Syncronizare cloud reusita
+2019-11-21 12:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 13:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-21 13:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 13:00:08.232 cron backup executat cu succes s1124988_2019_11_21 13_00_00.002.gz
+2019-11-21 13:00:08.695 DB Syncronizare cloud reusita
+2019-11-21 13:00:10.450 Port lungime inchis normal
+2019-11-21 13:00:10.481 Port cantitate inchis normal
+2019-11-21 13:02:46.084 Port Lungime conectat
+2019-11-21 13:02:46.084 Port greutate conectat
+2019-11-21 13:03:20.659 Port lungime inchis normal
+2019-11-21 13:03:20.688 Port cantitate inchis normal
+2019-11-21 13:05:57.529 Port Lungime conectat
+2019-11-21 13:05:57.532 Port greutate conectat
+2019-11-21 13:24:07.714 Port lungime inchis normal
+2019-11-21 13:24:07.744 Port cantitate inchis normal
+2019-11-21 13:27:56.282 Port greutate conectat
+2019-11-21 13:27:56.285 Port Lungime conectat
+2019-11-21 13:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 13:31:36.721 Port lungime inchis normal
+2019-11-21 13:31:36.752 Port cantitate inchis normal
+2019-11-21 13:32:29.417 Port greutate conectat
+2019-11-21 13:32:29.417 Port Lungime conectat
+2019-11-21 14:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-21 14:00:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 14:00:08.180 cron backup executat cu succes s1124988_2019_11_21 14_00_00.002.gz
+2019-11-21 14:00:08.869 DB Syncronizare cloud reusita
+2019-11-21 14:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 14:38:05.789 Port lungime inchis normal
+2019-11-21 14:38:05.819 Port cantitate inchis normal
+2019-11-21 14:40:10.363 Port Lungime conectat
+2019-11-21 14:40:10.366 Port greutate conectat
+2019-11-21 14:49:41.428 Port lungime inchis normal
+2019-11-21 14:49:41.459 Port cantitate inchis normal
+2019-11-21 14:51:21.947 Port Lungime conectat
+2019-11-21 14:51:21.950 Port greutate conectat
+2019-11-21 14:52:27.780 Port lungime inchis normal
+2019-11-21 14:52:27.810 Port cantitate inchis normal
+2019-11-21 14:52:50.706 Port Lungime conectat
+2019-11-21 14:52:50.708 Port greutate conectat
+2019-11-21 15:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 15:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-21 15:00:08.250 cron backup executat cu succes s1124988_2019_11_21 15_00_00.003.gz
+2019-11-21 15:00:08.697 DB Syncronizare cloud reusita
+2019-11-21 15:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 15:47:27.289 Port lungime inchis normal
+2019-11-21 15:47:27.319 Port cantitate inchis normal
+2019-11-21 15:49:28.928 Port Lungime conectat
+2019-11-21 15:49:28.930 Port greutate conectat
+2019-11-21 16:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 16:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-21 16:00:08.276 cron backup executat cu succes s1124988_2019_11_21 16_00_00.002.gz
+2019-11-21 16:00:08.654 DB Syncronizare cloud reusita
+2019-11-21 16:23:00.005 Port lungime inchis normal
+2019-11-21 16:23:00.036 Port cantitate inchis normal
+2019-11-21 16:23:00.279 Port greutate conectat
+2019-11-21 16:23:00.279 Port Lungime conectat
+2019-11-21 16:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 17:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-21 17:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 17:00:08.425 cron backup executat cu succes s1124988_2019_11_21 17_00_00.001.gz
+2019-11-21 17:00:08.859 DB Syncronizare cloud reusita
+2019-11-21 17:03:43.213 Port lungime inchis normal
+2019-11-21 17:03:43.244 Port cantitate inchis normal
+2019-11-21 17:06:49.204 Port greutate conectat
+2019-11-21 17:06:49.205 Port Lungime conectat
+2019-11-21 17:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 18:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 18:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-21 18:00:08.291 cron backup executat cu succes s1124988_2019_11_21 18_00_00.001.gz
+2019-11-21 18:00:08.651 DB Syncronizare cloud reusita
+2019-11-21 18:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 19:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 19:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-21 19:00:08.288 cron backup executat cu succes s1124988_2019_11_21 19_00_00.002.gz
+2019-11-21 19:00:08.680 DB Syncronizare cloud reusita
+2019-11-21 19:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 20:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-21 20:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 20:00:08.251 cron backup executat cu succes s1124988_2019_11_21 20_00_00.002.gz
+2019-11-21 20:00:08.614 DB Syncronizare cloud reusita
+2019-11-21 20:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 20:47:17.032 Port lungime inchis normal
+2019-11-21 20:47:17.062 Port cantitate inchis normal
+2019-11-21 20:49:10.655 Port greutate conectat
+2019-11-21 20:49:10.655 Port Lungime conectat
+2019-11-21 21:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 21:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-21 21:00:08.544 cron backup executat cu succes s1124988_2019_11_21 21_00_00.002.gz
+2019-11-21 21:00:08.927 DB Syncronizare cloud reusita
+2019-11-21 21:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 22:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-21 22:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 22:00:08.277 cron backup executat cu succes s1124988_2019_11_21 22_00_00.001.gz
+2019-11-21 22:00:08.645 DB Syncronizare cloud reusita
+2019-11-21 22:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 23:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-21 23:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 23:00:08.356 cron backup executat cu succes s1124988_2019_11_21 23_00_00.002.gz
+2019-11-21 23:00:08.779 DB Syncronizare cloud reusita
+2019-11-21 23:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-21 23:35:11.157 Port lungime inchis normal
+2019-11-21 23:35:11.188 Port cantitate inchis normal
+2019-11-21 23:39:54.981 Port Lungime conectat
+2019-11-21 23:39:54.984 Port greutate conectat
+2019-11-22 00:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 00:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 00:00:08.289 cron backup executat cu succes s1124988_2019_11_22 00_00_00.002.gz
+2019-11-22 00:00:08.633 DB Syncronizare cloud reusita
+2019-11-22 00:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 01:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-22 01:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 01:00:08.387 cron backup executat cu succes s1124988_2019_11_22 01_00_00.003.gz
+2019-11-22 01:00:08.784 DB Syncronizare cloud reusita
+2019-11-22 01:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 01:45:44.950 Port lungime inchis normal
+2019-11-22 01:45:44.981 Port cantitate inchis normal
+2019-11-22 01:47:03.661 Port greutate conectat
+2019-11-22 01:47:03.662 Port Lungime conectat
+2019-11-22 02:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-22 02:00:00.004 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 02:00:08.510 cron backup executat cu succes s1124988_2019_11_22 02_00_00.002.gz
+2019-11-22 02:00:09.031 DB Syncronizare cloud reusita
+2019-11-22 02:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 03:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 03:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 03:00:08.272 cron backup executat cu succes s1124988_2019_11_22 03_00_00.001.gz
+2019-11-22 03:00:08.660 DB Syncronizare cloud reusita
+2019-11-22 03:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 03:34:34.912 Port lungime inchis normal
+2019-11-22 03:34:34.941 Port cantitate inchis normal
+2019-11-22 03:36:46.277 Port Lungime conectat
+2019-11-22 03:36:46.280 Port greutate conectat
+2019-11-22 03:59:48.962 Server started at port 3000!
+2019-11-22 04:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 04:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-22 04:00:09.478 cron backup executat cu succes s1124988_2019_11_22 04_00_00.010.gz
+2019-11-22 04:00:10.046 DB Syncronizare cloud reusita
+2019-11-22 04:01:05.193 Port greutate conectat
+2019-11-22 04:01:05.194 Port Lungime conectat
+2019-11-22 04:09:21.177 Port lungime inchis normal
+2019-11-22 04:09:21.206 Port cantitate inchis normal
+2019-11-22 04:09:27.437 Port Lungime conectat
+2019-11-22 04:09:27.440 Port greutate conectat
+2019-11-22 04:13:52.885 Port lungime inchis normal
+2019-11-22 04:13:52.916 Port cantitate inchis normal
+2019-11-22 04:15:09.111 Port greutate conectat
+2019-11-22 04:15:09.111 Port Lungime conectat
+2019-11-22 04:15:41.741 Port lungime inchis normal
+2019-11-22 04:15:41.772 Port cantitate inchis normal
+2019-11-22 04:15:49.126 Port Lungime conectat
+2019-11-22 04:15:49.126 Port greutate conectat
+2019-11-22 04:17:32.725 Port lungime inchis normal
+2019-11-22 04:17:32.756 Port cantitate inchis normal
+2019-11-22 04:18:12.380 Port Lungime conectat
+2019-11-22 04:18:12.382 Port greutate conectat
+2019-11-22 04:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 05:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-22 05:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 05:00:08.618 cron backup executat cu succes s1124988_2019_11_22 05_00_00.003.gz
+2019-11-22 05:00:09.753 DB Syncronizare cloud reusita
+2019-11-22 05:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 06:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 06:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 06:00:08.445 cron backup executat cu succes s1124988_2019_11_22 06_00_00.001.gz
+2019-11-22 06:00:08.898 DB Syncronizare cloud reusita
+2019-11-22 06:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 06:55:01.856 Port lungime inchis normal
+2019-11-22 06:55:01.886 Port cantitate inchis normal
+2019-11-22 06:56:06.274 Port greutate conectat
+2019-11-22 06:56:06.275 Port Lungime conectat
+2019-11-22 07:00:00.003 generate raports !!!!!!!!!!!!
+2019-11-22 07:00:00.005 cron DB backup!!!!!!!!!!!!
+2019-11-22 07:00:00.008 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 07:00:08.512 cron backup executat cu succes s1124988_2019_11_22 07_00_00.006.gz
+2019-11-22 07:00:08.920 DB Syncronizare cloud reusita
+2019-11-22 07:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 08:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 08:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 08:00:08.480 cron backup executat cu succes s1124988_2019_11_22 08_00_00.001.gz
+2019-11-22 08:00:08.853 DB Syncronizare cloud reusita
+2019-11-22 08:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 08:42:49.327 Port lungime inchis normal
+2019-11-22 08:42:49.357 Port cantitate inchis normal
+2019-11-22 08:43:09.193 Port greutate conectat
+2019-11-22 08:43:09.193 Port Lungime conectat
+2019-11-22 08:44:40.963 Port lungime inchis normal
+2019-11-22 08:44:40.994 Port cantitate inchis normal
+2019-11-22 08:47:03.408 Port Lungime conectat
+2019-11-22 08:47:03.410 Port greutate conectat
+2019-11-22 09:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 09:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 09:00:08.521 cron backup executat cu succes s1124988_2019_11_22 09_00_00.001.gz
+2019-11-22 09:00:08.931 DB Syncronizare cloud reusita
+2019-11-22 09:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 10:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 10:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 10:00:08.490 cron backup executat cu succes s1124988_2019_11_22 10_00_00.001.gz
+2019-11-22 10:00:08.843 DB Syncronizare cloud reusita
+2019-11-22 10:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 10:51:44.024 Port lungime inchis normal
+2019-11-22 10:51:44.054 Port cantitate inchis normal
+2019-11-22 10:55:25.633 Port greutate conectat
+2019-11-22 10:55:25.633 Port Lungime conectat
+2019-11-22 11:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 11:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 11:00:08.716 cron backup executat cu succes s1124988_2019_11_22 11_00_00.002.gz
+2019-11-22 11:00:09.225 DB Syncronizare cloud reusita
+2019-11-22 11:22:26.097 Port lungime inchis normal
+2019-11-22 11:22:26.127 Port cantitate inchis normal
+2019-11-22 11:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 11:34:15.254 Port Lungime conectat
+2019-11-22 11:34:15.256 Port greutate conectat
+2019-11-22 12:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 12:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 12:00:08.583 cron backup executat cu succes s1124988_2019_11_22 12_00_00.001.gz
+2019-11-22 12:00:08.944 DB Syncronizare cloud reusita
+2019-11-22 12:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 13:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 13:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 13:00:08.554 cron backup executat cu succes s1124988_2019_11_22 13_00_00.001.gz
+2019-11-22 13:00:08.935 DB Syncronizare cloud reusita
+2019-11-22 13:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 13:46:28.236 Port lungime inchis normal
+2019-11-22 13:46:28.265 Port cantitate inchis normal
+2019-11-22 13:46:35.313 Port greutate conectat
+2019-11-22 13:46:35.316 Port Lungime conectat
+2019-11-22 14:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 14:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 14:00:08.578 cron backup executat cu succes s1124988_2019_11_22 14_00_00.002.gz
+2019-11-22 14:00:08.939 DB Syncronizare cloud reusita
+2019-11-22 14:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 15:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-22 15:00:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 15:00:08.571 cron backup executat cu succes s1124988_2019_11_22 15_00_00.002.gz
+2019-11-22 15:00:09.007 DB Syncronizare cloud reusita
+2019-11-22 15:22:55.725 Port lungime inchis normal
+2019-11-22 15:22:55.755 Port cantitate inchis normal
+2019-11-22 15:24:47.995 Port Lungime conectat
+2019-11-22 15:24:47.998 Port greutate conectat
+2019-11-22 15:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 16:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 16:00:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 16:00:08.800 cron backup executat cu succes s1124988_2019_11_22 16_00_00.001.gz
+2019-11-22 16:00:09.194 DB Syncronizare cloud reusita
+2019-11-22 16:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 17:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 17:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-22 17:00:08.594 cron backup executat cu succes s1124988_2019_11_22 17_00_00.002.gz
+2019-11-22 17:00:08.958 DB Syncronizare cloud reusita
+2019-11-22 17:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 18:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 18:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-22 18:00:08.556 cron backup executat cu succes s1124988_2019_11_22 18_00_00.002.gz
+2019-11-22 18:00:08.943 DB Syncronizare cloud reusita
+2019-11-22 18:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 19:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 19:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-22 19:00:08.611 cron backup executat cu succes s1124988_2019_11_22 19_00_00.003.gz
+2019-11-22 19:00:08.973 DB Syncronizare cloud reusita
+2019-11-22 19:25:09.290 Port lungime inchis normal
+2019-11-22 19:25:09.320 Port cantitate inchis normal
+2019-11-22 19:26:39.025 Port Lungime conectat
+2019-11-22 19:26:39.028 Port greutate conectat
+2019-11-22 19:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 20:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 20:00:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 20:00:08.844 cron backup executat cu succes s1124988_2019_11_22 20_00_00.001.gz
+2019-11-22 20:00:09.191 DB Syncronizare cloud reusita
+2019-11-22 20:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 21:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 21:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 21:00:08.625 cron backup executat cu succes s1124988_2019_11_22 21_00_00.002.gz
+2019-11-22 21:00:08.988 DB Syncronizare cloud reusita
+2019-11-22 21:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 21:58:37.657 Port lungime inchis normal
+2019-11-22 21:58:37.687 Port cantitate inchis normal
+2019-11-22 21:59:32.174 Port greutate conectat
+2019-11-22 21:59:32.175 Port Lungime conectat
+2019-11-22 22:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 22:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 22:00:08.612 cron backup executat cu succes s1124988_2019_11_22 22_00_00.001.gz
+2019-11-22 22:00:09.035 DB Syncronizare cloud reusita
+2019-11-22 22:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 23:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-22 23:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-22 23:00:08.629 cron backup executat cu succes s1124988_2019_11_22 23_00_00.002.gz
+2019-11-22 23:00:08.998 DB Syncronizare cloud reusita
+2019-11-22 23:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 00:00:00.004 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 00:00:00.004 cron DB backup!!!!!!!!!!!!
+2019-11-23 00:00:08.623 cron backup executat cu succes s1124988_2019_11_23 00_00_00.004.gz
+2019-11-23 00:00:09.009 DB Syncronizare cloud reusita
+2019-11-23 00:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 01:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 01:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-23 01:00:08.671 cron backup executat cu succes s1124988_2019_11_23 01_00_00.002.gz
+2019-11-23 01:00:09.083 DB Syncronizare cloud reusita
+2019-11-23 01:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 01:35:59.800 Port lungime inchis normal
+2019-11-23 01:35:59.830 Port cantitate inchis normal
+2019-11-23 01:37:14.640 Port greutate conectat
+2019-11-23 01:37:14.640 Port Lungime conectat
+2019-11-23 02:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 02:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-23 02:00:08.613 cron backup executat cu succes s1124988_2019_11_23 02_00_00.002.gz
+2019-11-23 02:00:08.963 DB Syncronizare cloud reusita
+2019-11-23 02:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 03:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-23 03:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 03:00:08.606 cron backup executat cu succes s1124988_2019_11_23 03_00_00.002.gz
+2019-11-23 03:00:08.940 DB Syncronizare cloud reusita
+2019-11-23 03:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 04:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-23 04:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 04:00:08.636 cron backup executat cu succes s1124988_2019_11_23 04_00_00.002.gz
+2019-11-23 04:00:09.181 DB Syncronizare cloud reusita
+2019-11-23 04:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 04:53:22.738 Port lungime inchis normal
+2019-11-23 04:53:22.768 Port cantitate inchis normal
+2019-11-23 04:54:36.857 Port Lungime conectat
+2019-11-23 04:54:36.859 Port greutate conectat
+2019-11-23 05:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-23 05:00:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 05:00:08.620 cron backup executat cu succes s1124988_2019_11_23 05_00_00.001.gz
+2019-11-23 05:00:09.672 DB Syncronizare cloud reusita
+2019-11-23 05:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 06:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 06:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-23 06:00:08.843 cron backup executat cu succes s1124988_2019_11_23 06_00_00.002.gz
+2019-11-23 06:00:09.319 DB Syncronizare cloud reusita
+2019-11-23 06:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 07:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 07:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-23 07:00:00.005 generate raports !!!!!!!!!!!!
+2019-11-23 07:00:08.634 cron backup executat cu succes s1124988_2019_11_23 07_00_00.002.gz
+2019-11-23 07:00:09.149 DB Syncronizare cloud reusita
+2019-11-23 07:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 08:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-23 08:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 08:00:08.607 cron backup executat cu succes s1124988_2019_11_23 08_00_00.001.gz
+2019-11-23 08:00:09.003 DB Syncronizare cloud reusita
+2019-11-23 08:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 09:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-23 09:00:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 09:00:08.626 cron backup executat cu succes s1124988_2019_11_23 09_00_00.002.gz
+2019-11-23 09:00:08.997 DB Syncronizare cloud reusita
+2019-11-23 09:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 10:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 10:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-23 10:00:08.817 cron backup executat cu succes s1124988_2019_11_23 10_00_00.002.gz
+2019-11-23 10:00:09.221 DB Syncronizare cloud reusita
+2019-11-23 10:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 11:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-23 11:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 11:00:08.703 cron backup executat cu succes s1124988_2019_11_23 11_00_00.001.gz
+2019-11-23 11:00:09.081 DB Syncronizare cloud reusita
+2019-11-23 11:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 12:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 12:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-23 12:00:08.660 cron backup executat cu succes s1124988_2019_11_23 12_00_00.002.gz
+2019-11-23 12:00:09.009 DB Syncronizare cloud reusita
+2019-11-23 12:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 12:34:24.489 Port lungime inchis normal
+2019-11-23 12:34:24.518 Port cantitate inchis normal
+2019-11-23 12:36:14.510 Port Lungime conectat
+2019-11-23 12:36:14.512 Port greutate conectat
+2019-11-23 13:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 13:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-23 13:00:08.608 cron backup executat cu succes s1124988_2019_11_23 13_00_00.001.gz
+2019-11-23 13:00:09.028 DB Syncronizare cloud reusita
+2019-11-23 13:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 14:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 14:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-23 14:00:08.599 cron backup executat cu succes s1124988_2019_11_23 14_00_00.001.gz
+2019-11-23 14:00:08.972 DB Syncronizare cloud reusita
+2019-11-23 14:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 15:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-23 15:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 15:00:08.656 cron backup executat cu succes s1124988_2019_11_23 15_00_00.001.gz
+2019-11-23 15:00:09.059 DB Syncronizare cloud reusita
+2019-11-23 15:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 16:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 16:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-23 16:00:08.584 cron backup executat cu succes s1124988_2019_11_23 16_00_00.002.gz
+2019-11-23 16:00:09.024 DB Syncronizare cloud reusita
+2019-11-23 16:04:48.113 Port lungime inchis normal
+2019-11-23 16:04:48.143 Port cantitate inchis normal
+2019-11-23 16:07:18.959 Port Lungime conectat
+2019-11-23 16:07:18.961 Port greutate conectat
+2019-11-23 16:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 17:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-23 17:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 17:00:08.675 cron backup executat cu succes s1124988_2019_11_23 17_00_00.002.gz
+2019-11-23 17:00:09.042 DB Syncronizare cloud reusita
+2019-11-23 17:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 18:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 18:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-23 18:00:08.641 cron backup executat cu succes s1124988_2019_11_23 18_00_00.002.gz
+2019-11-23 18:00:09.068 DB Syncronizare cloud reusita
+2019-11-23 18:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 18:48:23.876 Port lungime inchis normal
+2019-11-23 18:48:23.906 Port cantitate inchis normal
+2019-11-23 18:50:32.939 Port Lungime conectat
+2019-11-23 18:50:32.941 Port greutate conectat
+2019-11-23 19:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-23 19:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 19:00:08.634 cron backup executat cu succes s1124988_2019_11_23 19_00_00.001.gz
+2019-11-23 19:00:09.016 DB Syncronizare cloud reusita
+2019-11-23 19:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 20:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-23 20:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 20:00:08.793 cron backup executat cu succes s1124988_2019_11_23 20_00_00.001.gz
+2019-11-23 20:00:09.129 DB Syncronizare cloud reusita
+2019-11-23 20:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 21:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-23 21:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 21:00:08.593 cron backup executat cu succes s1124988_2019_11_23 21_00_00.001.gz
+2019-11-23 21:00:08.997 DB Syncronizare cloud reusita
+2019-11-23 21:04:39.912 Port lungime inchis normal
+2019-11-23 21:04:39.943 Port cantitate inchis normal
+2019-11-23 21:08:01.402 Port greutate conectat
+2019-11-23 21:08:01.404 Port Lungime conectat
+2019-11-23 21:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 22:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 22:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-23 22:00:08.617 cron backup executat cu succes s1124988_2019_11_23 22_00_00.002.gz
+2019-11-23 22:00:09.044 DB Syncronizare cloud reusita
+2019-11-23 22:23:46.780 Port lungime inchis normal
+2019-11-23 22:23:46.810 Port cantitate inchis normal
+2019-11-23 22:24:02.586 Port greutate conectat
+2019-11-23 22:24:02.589 Port Lungime conectat
+2019-11-23 22:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 23:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 23:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-23 23:00:08.624 cron backup executat cu succes s1124988_2019_11_23 23_00_00.002.gz
+2019-11-23 23:00:08.967 DB Syncronizare cloud reusita
+2019-11-23 23:02:39.196 Port lungime inchis normal
+2019-11-23 23:02:39.225 Port cantitate inchis normal
+2019-11-23 23:03:03.512 Port Lungime conectat
+2019-11-23 23:03:03.512 Port greutate conectat
+2019-11-23 23:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-23 23:30:43.792 Port lungime inchis normal
+2019-11-23 23:30:43.822 Port cantitate inchis normal
+2019-11-23 23:32:45.894 Port Lungime conectat
+2019-11-23 23:32:45.896 Port greutate conectat
+2019-11-24 00:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 00:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-24 00:00:08.662 cron backup executat cu succes s1124988_2019_11_24 00_00_00.002.gz
+2019-11-24 00:00:09.063 DB Syncronizare cloud reusita
+2019-11-24 00:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 01:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-24 01:00:00.007 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 01:00:08.640 cron backup executat cu succes s1124988_2019_11_24 01_00_00.001.gz
+2019-11-24 01:00:09.009 DB Syncronizare cloud reusita
+2019-11-24 01:18:28.784 Port lungime inchis normal
+2019-11-24 01:18:28.813 Port cantitate inchis normal
+2019-11-24 01:19:48.720 Port greutate conectat
+2019-11-24 01:19:48.723 Port Lungime conectat
+2019-11-24 01:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 02:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-24 02:00:00.007 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 02:00:08.639 cron backup executat cu succes s1124988_2019_11_24 02_00_00.003.gz
+2019-11-24 02:00:09.004 DB Syncronizare cloud reusita
+2019-11-24 02:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 03:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 03:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-24 03:00:08.660 cron backup executat cu succes s1124988_2019_11_24 03_00_00.002.gz
+2019-11-24 03:00:09.027 DB Syncronizare cloud reusita
+2019-11-24 03:16:08.054 Port lungime inchis normal
+2019-11-24 03:16:08.085 Port cantitate inchis normal
+2019-11-24 03:17:39.247 Port Lungime conectat
+2019-11-24 03:17:39.247 Port greutate conectat
+2019-11-24 03:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 04:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 04:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-24 04:00:08.662 cron backup executat cu succes s1124988_2019_11_24 04_00_00.002.gz
+2019-11-24 04:00:09.132 DB Syncronizare cloud reusita
+2019-11-24 04:24:41.450 Port lungime inchis normal
+2019-11-24 04:24:41.480 Port cantitate inchis normal
+2019-11-24 04:26:16.120 Port greutate conectat
+2019-11-24 04:26:16.122 Port Lungime conectat
+2019-11-24 04:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 05:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 05:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-24 05:00:08.724 cron backup executat cu succes s1124988_2019_11_24 05_00_00.002.gz
+2019-11-24 05:00:09.206 DB Syncronizare cloud reusita
+2019-11-24 05:27:04.095 Port lungime inchis normal
+2019-11-24 05:27:04.126 Port cantitate inchis normal
+2019-11-24 05:27:35.884 Port Lungime conectat
+2019-11-24 05:27:35.887 Port greutate conectat
+2019-11-24 05:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 05:43:41.340 Port lungime inchis normal
+2019-11-24 05:43:41.369 Port cantitate inchis normal
+2019-11-24 05:43:44.106 Port Lungime conectat
+2019-11-24 05:43:44.106 Port greutate conectat
+2019-11-24 06:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-24 06:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 06:00:08.698 cron backup executat cu succes s1124988_2019_11_24 06_00_00.002.gz
+2019-11-24 06:00:09.112 DB Syncronizare cloud reusita
+2019-11-24 06:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 06:45:38.744 Port lungime inchis normal
+2019-11-24 06:45:38.774 Port cantitate inchis normal
+2019-11-24 06:45:51.645 Port Lungime conectat
+2019-11-24 06:45:51.646 Port greutate conectat
+2019-11-24 07:00:00.001 generate raports !!!!!!!!!!!!
+2019-11-24 07:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 07:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-24 07:00:08.659 cron backup executat cu succes s1124988_2019_11_24 07_00_00.002.gz
+2019-11-24 07:00:09.061 DB Syncronizare cloud reusita
+2019-11-24 07:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 07:46:53.164 Port lungime inchis normal
+2019-11-24 07:46:53.194 Port cantitate inchis normal
+2019-11-24 08:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-24 08:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 08:00:08.738 cron backup executat cu succes s1124988_2019_11_24 08_00_00.002.gz
+2019-11-24 08:00:09.163 DB Syncronizare cloud reusita
+2019-11-24 08:15:24.481 Port greutate conectat
+2019-11-24 08:15:24.484 Port Lungime conectat
+2019-11-24 08:18:56.227 Port lungime inchis normal
+2019-11-24 08:18:56.257 Port cantitate inchis normal
+2019-11-24 08:20:33.770 Port Lungime conectat
+2019-11-24 08:20:33.770 Port greutate conectat
+2019-11-24 08:20:46.656 Port lungime inchis normal
+2019-11-24 08:20:46.687 Port cantitate inchis normal
+2019-11-24 08:21:09.290 Port greutate conectat
+2019-11-24 08:21:09.290 Port Lungime conectat
+2019-11-24 08:23:29.537 Port lungime inchis normal
+2019-11-24 08:23:29.567 Port cantitate inchis normal
+2019-11-24 08:24:27.809 Port greutate conectat
+2019-11-24 08:24:27.809 Port Lungime conectat
+2019-11-24 08:24:33.562 Port lungime inchis normal
+2019-11-24 08:24:33.591 Port cantitate inchis normal
+2019-11-24 08:24:50.113 Port Lungime conectat
+2019-11-24 08:24:50.113 Port greutate conectat
+2019-11-24 08:24:58.545 Port lungime inchis normal
+2019-11-24 08:24:58.575 Port cantitate inchis normal
+2019-11-24 08:25:44.690 Port Lungime conectat
+2019-11-24 08:25:44.690 Port greutate conectat
+2019-11-24 08:26:42.784 Port lungime inchis normal
+2019-11-24 08:26:42.814 Port cantitate inchis normal
+2019-11-24 08:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 08:33:46.858 Port greutate conectat
+2019-11-24 08:33:46.858 Port Lungime conectat
+2019-11-24 08:33:54.210 Port lungime inchis normal
+2019-11-24 08:33:54.240 Port cantitate inchis normal
+2019-11-24 08:35:17.040 Port Lungime conectat
+2019-11-24 08:35:17.040 Port greutate conectat
+2019-11-24 08:35:24.600 Port lungime inchis normal
+2019-11-24 08:35:24.631 Port cantitate inchis normal
+2019-11-24 08:35:26.640 Port greutate conectat
+2019-11-24 08:35:26.640 Port Lungime conectat
+2019-11-24 09:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 09:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-24 09:00:08.839 cron backup executat cu succes s1124988_2019_11_24 09_00_00.003.gz
+2019-11-24 09:00:09.222 DB Syncronizare cloud reusita
+2019-11-24 09:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 10:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 10:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-24 10:00:09.102 cron backup executat cu succes s1124988_2019_11_24 10_00_00.001.gz
+2019-11-24 10:00:09.475 DB Syncronizare cloud reusita
+2019-11-24 10:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 11:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-24 11:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 11:00:08.787 cron backup executat cu succes s1124988_2019_11_24 11_00_00.002.gz
+2019-11-24 11:00:09.212 DB Syncronizare cloud reusita
+2019-11-24 11:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 11:47:02.131 Port lungime inchis normal
+2019-11-24 11:47:02.161 Port cantitate inchis normal
+2019-11-24 11:50:20.073 Port greutate conectat
+2019-11-24 11:50:20.073 Port Lungime conectat
+2019-11-24 12:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 12:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-24 12:00:08.834 cron backup executat cu succes s1124988_2019_11_24 12_00_00.002.gz
+2019-11-24 12:00:09.248 DB Syncronizare cloud reusita
+2019-11-24 12:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 13:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 13:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-24 13:00:08.817 cron backup executat cu succes s1124988_2019_11_24 13_00_00.003.gz
+2019-11-24 13:00:09.196 DB Syncronizare cloud reusita
+2019-11-24 13:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 13:38:35.115 Port lungime inchis normal
+2019-11-24 13:38:35.146 Port cantitate inchis normal
+2019-11-24 13:38:37.572 Port Lungime conectat
+2019-11-24 13:38:37.573 Port greutate conectat
+2019-11-24 13:40:16.601 Port lungime inchis normal
+2019-11-24 13:40:16.631 Port cantitate inchis normal
+2019-11-24 13:43:55.858 Port Lungime conectat
+2019-11-24 13:43:55.858 Port greutate conectat
+2019-11-24 14:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-24 14:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 14:00:08.774 cron backup executat cu succes s1124988_2019_11_24 14_00_00.003.gz
+2019-11-24 14:00:09.163 DB Syncronizare cloud reusita
+2019-11-24 14:08:52.335 Port lungime inchis normal
+2019-11-24 14:08:52.365 Port cantitate inchis normal
+2019-11-24 14:10:29.680 Port greutate conectat
+2019-11-24 14:10:29.680 Port Lungime conectat
+2019-11-24 14:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 14:55:31.749 Port lungime inchis normal
+2019-11-24 14:55:31.780 Port cantitate inchis normal
+2019-11-24 14:55:31.986 Port Lungime conectat
+2019-11-24 14:55:31.989 Port greutate conectat
+2019-11-24 14:57:30.349 Port lungime inchis normal
+2019-11-24 14:57:30.378 Port cantitate inchis normal
+2019-11-24 14:57:53.525 Port greutate conectat
+2019-11-24 14:57:53.526 Port Lungime conectat
+2019-11-24 15:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-24 15:00:00.007 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 15:00:08.875 cron backup executat cu succes s1124988_2019_11_24 15_00_00.002.gz
+2019-11-24 15:00:09.245 DB Syncronizare cloud reusita
+2019-11-24 15:00:34.963 Port lungime inchis normal
+2019-11-24 15:00:34.993 Port cantitate inchis normal
+2019-11-24 15:01:36.541 Port Lungime conectat
+2019-11-24 15:01:36.541 Port greutate conectat
+2019-11-24 15:01:44.979 Port lungime inchis normal
+2019-11-24 15:01:45.009 Port cantitate inchis normal
+2019-11-24 15:01:46.452 Port Lungime conectat
+2019-11-24 15:01:46.455 Port greutate conectat
+2019-11-24 15:06:36.428 Port lungime inchis normal
+2019-11-24 15:06:36.460 Port cantitate inchis normal
+2019-11-24 15:09:18.675 Port greutate conectat
+2019-11-24 15:09:18.677 Port Lungime conectat
+2019-11-24 15:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 15:30:42.395 Port lungime inchis normal
+2019-11-24 15:30:42.423 Port cantitate inchis normal
+2019-11-24 15:33:04.537 Port greutate conectat
+2019-11-24 15:33:04.540 Port Lungime conectat
+2019-11-24 16:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 16:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-24 16:00:08.811 cron backup executat cu succes s1124988_2019_11_24 16_00_00.001.gz
+2019-11-24 16:00:09.187 DB Syncronizare cloud reusita
+2019-11-24 16:12:50.848 Port lungime inchis normal
+2019-11-24 16:12:50.879 Port cantitate inchis normal
+2019-11-24 16:14:44.119 Port greutate conectat
+2019-11-24 16:14:44.122 Port Lungime conectat
+2019-11-24 16:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 16:36:12.221 Port lungime inchis normal
+2019-11-24 16:36:12.251 Port cantitate inchis normal
+2019-11-24 16:44:30.670 Port greutate conectat
+2019-11-24 16:44:30.670 Port Lungime conectat
+2019-11-24 17:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-24 17:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 17:00:08.820 cron backup executat cu succes s1124988_2019_11_24 17_00_00.003.gz
+2019-11-24 17:00:09.180 DB Syncronizare cloud reusita
+2019-11-24 17:30:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 18:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-24 18:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 18:00:08.747 cron backup executat cu succes s1124988_2019_11_24 18_00_00.002.gz
+2019-11-24 18:00:09.101 DB Syncronizare cloud reusita
+2019-11-24 18:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 19:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-24 19:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 19:00:08.778 cron backup executat cu succes s1124988_2019_11_24 19_00_00.001.gz
+2019-11-24 19:00:09.186 DB Syncronizare cloud reusita
+2019-11-24 19:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 20:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 20:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-24 20:00:08.770 cron backup executat cu succes s1124988_2019_11_24 20_00_00.001.gz
+2019-11-24 20:00:09.162 DB Syncronizare cloud reusita
+2019-11-24 20:30:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 21:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 21:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-24 21:00:09.069 cron backup executat cu succes s1124988_2019_11_24 21_00_00.003.gz
+2019-11-24 21:00:09.445 DB Syncronizare cloud reusita
+2019-11-24 21:08:54.537 Port lungime inchis normal
+2019-11-24 21:08:54.567 Port cantitate inchis normal
+2019-11-24 21:12:27.327 Port Lungime conectat
+2019-11-24 21:12:27.330 Port greutate conectat
+2019-11-24 21:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 22:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-24 22:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 22:00:08.784 cron backup executat cu succes s1124988_2019_11_24 22_00_00.002.gz
+2019-11-24 22:00:09.197 DB Syncronizare cloud reusita
+2019-11-24 22:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 23:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-24 23:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-24 23:00:08.966 cron backup executat cu succes s1124988_2019_11_24 23_00_00.001.gz
+2019-11-24 23:00:09.351 DB Syncronizare cloud reusita
+2019-11-24 23:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 00:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-25 00:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 00:00:08.787 cron backup executat cu succes s1124988_2019_11_25 00_00_00.002.gz
+2019-11-25 00:00:09.182 DB Syncronizare cloud reusita
+2019-11-25 00:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 01:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 01:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-25 01:00:08.801 cron backup executat cu succes s1124988_2019_11_25 01_00_00.002.gz
+2019-11-25 01:00:09.174 DB Syncronizare cloud reusita
+2019-11-25 01:30:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 02:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 02:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-25 02:00:08.833 cron backup executat cu succes s1124988_2019_11_25 02_00_00.002.gz
+2019-11-25 02:00:09.220 DB Syncronizare cloud reusita
+2019-11-25 02:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 03:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 03:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-25 03:00:08.809 cron backup executat cu succes s1124988_2019_11_25 03_00_00.002.gz
+2019-11-25 03:00:09.220 DB Syncronizare cloud reusita
+2019-11-25 03:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 04:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-25 04:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 04:00:09.068 cron backup executat cu succes s1124988_2019_11_25 04_00_00.002.gz
+2019-11-25 04:00:09.580 DB Syncronizare cloud reusita
+2019-11-25 04:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 05:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-25 05:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 05:00:08.884 cron backup executat cu succes s1124988_2019_11_25 05_00_00.001.gz
+2019-11-25 05:00:09.886 DB Syncronizare cloud reusita
+2019-11-25 05:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 06:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-25 06:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 06:00:08.869 cron backup executat cu succes s1124988_2019_11_25 06_00_00.001.gz
+2019-11-25 06:00:09.434 DB Syncronizare cloud reusita
+2019-11-25 06:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 06:44:17.471 Port lungime inchis normal
+2019-11-25 06:44:17.501 Port cantitate inchis normal
+2019-11-25 06:44:25.309 Port Lungime conectat
+2019-11-25 06:44:25.312 Port greutate conectat
+2019-11-25 07:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-25 07:00:00.006 generate raports !!!!!!!!!!!!
+2019-11-25 07:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 07:00:08.850 cron backup executat cu succes s1124988_2019_11_25 07_00_00.001.gz
+2019-11-25 07:00:09.267 DB Syncronizare cloud reusita
+2019-11-25 07:30:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 07:38:36.714 Port lungime inchis normal
+2019-11-25 07:38:36.744 Port cantitate inchis normal
+2019-11-25 07:40:37.042 Port greutate conectat
+2019-11-25 07:40:37.042 Port Lungime conectat
+2019-11-25 08:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-25 08:00:00.007 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 08:00:08.867 cron backup executat cu succes s1124988_2019_11_25 08_00_00.003.gz
+2019-11-25 08:00:09.257 DB Syncronizare cloud reusita
+2019-11-25 08:30:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 09:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-25 09:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 09:00:08.784 cron backup executat cu succes s1124988_2019_11_25 09_00_00.002.gz
+2019-11-25 09:00:09.188 DB Syncronizare cloud reusita
+2019-11-25 09:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 10:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 10:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-25 10:00:08.882 cron backup executat cu succes s1124988_2019_11_25 10_00_00.001.gz
+2019-11-25 10:00:09.249 DB Syncronizare cloud reusita
+2019-11-25 10:05:38.017 Port lungime inchis normal
+2019-11-25 10:05:38.048 Port cantitate inchis normal
+2019-11-25 10:07:00.037 Port Lungime conectat
+2019-11-25 10:07:00.040 Port greutate conectat
+2019-11-25 10:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 11:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-25 11:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 11:00:08.878 cron backup executat cu succes s1124988_2019_11_25 11_00_00.002.gz
+2019-11-25 11:00:09.333 DB Syncronizare cloud reusita
+2019-11-25 11:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 11:37:58.035 Port lungime inchis normal
+2019-11-25 11:37:58.065 Port cantitate inchis normal
+2019-11-25 11:38:03.673 Port greutate conectat
+2019-11-25 11:38:03.673 Port Lungime conectat
+2019-11-25 11:54:04.455 Port lungime inchis normal
+2019-11-25 11:54:04.485 Port cantitate inchis normal
+2019-11-25 11:55:26.590 Port greutate conectat
+2019-11-25 11:55:26.592 Port Lungime conectat
+2019-11-25 12:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 12:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-25 12:00:08.806 cron backup executat cu succes s1124988_2019_11_25 12_00_00.001.gz
+2019-11-25 12:00:09.249 DB Syncronizare cloud reusita
+2019-11-25 12:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 13:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-25 13:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 13:00:09.014 cron backup executat cu succes s1124988_2019_11_25 13_00_00.001.gz
+2019-11-25 13:00:09.432 DB Syncronizare cloud reusita
+2019-11-25 13:16:44.426 Port lungime inchis normal
+2019-11-25 13:16:44.456 Port cantitate inchis normal
+2019-11-25 13:17:54.120 Port Lungime conectat
+2019-11-25 13:17:54.123 Port greutate conectat
+2019-11-25 13:20:36.865 Port lungime inchis normal
+2019-11-25 13:20:36.895 Port cantitate inchis normal
+2019-11-25 13:21:44.731 Port Lungime conectat
+2019-11-25 13:21:44.732 Port greutate conectat
+2019-11-25 13:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 14:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 14:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-25 14:00:09.127 cron backup executat cu succes s1124988_2019_11_25 14_00_00.001.gz
+2019-11-25 14:00:09.501 DB Syncronizare cloud reusita
+2019-11-25 14:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 15:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-25 15:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 15:00:08.852 cron backup executat cu succes s1124988_2019_11_25 15_00_00.001.gz
+2019-11-25 15:00:09.245 DB Syncronizare cloud reusita
+2019-11-25 15:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 16:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-25 16:00:00.007 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 16:00:08.841 cron backup executat cu succes s1124988_2019_11_25 16_00_00.002.gz
+2019-11-25 16:00:09.223 DB Syncronizare cloud reusita
+2019-11-25 16:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 17:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-25 17:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 17:00:08.788 cron backup executat cu succes s1124988_2019_11_25 17_00_00.001.gz
+2019-11-25 17:00:09.158 DB Syncronizare cloud reusita
+2019-11-25 17:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 18:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 18:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-25 18:00:08.849 cron backup executat cu succes s1124988_2019_11_25 18_00_00.001.gz
+2019-11-25 18:00:09.212 DB Syncronizare cloud reusita
+2019-11-25 18:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 19:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-25 19:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 19:00:08.860 cron backup executat cu succes s1124988_2019_11_25 19_00_00.002.gz
+2019-11-25 19:00:09.270 DB Syncronizare cloud reusita
+2019-11-25 19:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 20:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-25 20:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 20:00:08.932 cron backup executat cu succes s1124988_2019_11_25 20_00_00.001.gz
+2019-11-25 20:00:09.274 DB Syncronizare cloud reusita
+2019-11-25 20:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 20:55:03.553 Port lungime inchis normal
+2019-11-25 20:55:03.582 Port cantitate inchis normal
+2019-11-25 20:57:18.351 Port greutate conectat
+2019-11-25 20:57:18.353 Port Lungime conectat
+2019-11-25 21:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 21:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-25 21:00:08.947 cron backup executat cu succes s1124988_2019_11_25 21_00_00.002.gz
+2019-11-25 21:00:09.306 DB Syncronizare cloud reusita
+2019-11-25 21:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 22:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 22:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-25 22:00:08.919 cron backup executat cu succes s1124988_2019_11_25 22_00_00.002.gz
+2019-11-25 22:00:09.363 DB Syncronizare cloud reusita
+2019-11-25 22:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 23:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-25 23:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-25 23:00:08.961 cron backup executat cu succes s1124988_2019_11_25 23_00_00.001.gz
+2019-11-25 23:00:09.315 DB Syncronizare cloud reusita
+2019-11-25 23:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 00:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-26 00:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 00:00:08.865 cron backup executat cu succes s1124988_2019_11_26 00_00_00.001.gz
+2019-11-26 00:00:09.224 DB Syncronizare cloud reusita
+2019-11-26 00:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 01:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 01:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-26 01:00:08.897 cron backup executat cu succes s1124988_2019_11_26 01_00_00.001.gz
+2019-11-26 01:00:09.324 DB Syncronizare cloud reusita
+2019-11-26 01:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 02:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 02:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-26 02:00:08.896 cron backup executat cu succes s1124988_2019_11_26 02_00_00.002.gz
+2019-11-26 02:00:09.291 DB Syncronizare cloud reusita
+2019-11-26 02:06:09.450 Port lungime inchis normal
+2019-11-26 02:06:09.481 Port cantitate inchis normal
+2019-11-26 02:08:14.487 Port Lungime conectat
+2019-11-26 02:08:14.489 Port greutate conectat
+2019-11-26 02:30:00.000 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 03:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 03:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-26 03:00:08.873 cron backup executat cu succes s1124988_2019_11_26 03_00_00.002.gz
+2019-11-26 03:00:09.243 DB Syncronizare cloud reusita
+2019-11-26 03:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 04:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 04:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-26 04:00:08.862 cron backup executat cu succes s1124988_2019_11_26 04_00_00.003.gz
+2019-11-26 04:00:09.323 DB Syncronizare cloud reusita
+2019-11-26 04:30:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 05:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 05:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-26 05:00:08.888 cron backup executat cu succes s1124988_2019_11_26 05_00_00.002.gz
+2019-11-26 05:00:09.823 DB Syncronizare cloud reusita
+2019-11-26 05:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 06:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-26 06:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 06:00:08.912 cron backup executat cu succes s1124988_2019_11_26 06_00_00.001.gz
+2019-11-26 06:00:09.513 DB Syncronizare cloud reusita
+2019-11-26 06:27:15.215 Port lungime inchis normal
+2019-11-26 06:27:15.246 Port cantitate inchis normal
+2019-11-26 06:28:31.428 Port Lungime conectat
+2019-11-26 06:28:31.431 Port greutate conectat
+2019-11-26 06:30:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 07:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-26 07:00:00.004 generate raports !!!!!!!!!!!!
+2019-11-26 07:00:00.004 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 07:00:08.831 cron backup executat cu succes s1124988_2019_11_26 07_00_00.003.gz
+2019-11-26 07:00:09.249 DB Syncronizare cloud reusita
+2019-11-26 07:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 08:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-26 08:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 08:00:08.892 cron backup executat cu succes s1124988_2019_11_26 08_00_00.001.gz
+2019-11-26 08:00:09.280 DB Syncronizare cloud reusita
+2019-11-26 08:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 09:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 09:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-26 09:00:08.867 cron backup executat cu succes s1124988_2019_11_26 09_00_00.002.gz
+2019-11-26 09:00:09.240 DB Syncronizare cloud reusita
+2019-11-26 09:28:23.193 Port lungime inchis normal
+2019-11-26 09:28:23.224 Port cantitate inchis normal
+2019-11-26 09:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 09:31:00.209 Port Lungime conectat
+2019-11-26 09:31:00.209 Port greutate conectat
+2019-11-26 10:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-26 10:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 10:00:09.028 cron backup executat cu succes s1124988_2019_11_26 10_00_00.002.gz
+2019-11-26 10:00:09.391 DB Syncronizare cloud reusita
+2019-11-26 10:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 11:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 11:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-26 11:00:08.820 cron backup executat cu succes s1124988_2019_11_26 11_00_00.002.gz
+2019-11-26 11:00:09.220 DB Syncronizare cloud reusita
+2019-11-26 11:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 11:39:58.265 Port lungime inchis normal
+2019-11-26 11:39:58.295 Port cantitate inchis normal
+2019-11-26 11:41:35.517 Port Lungime conectat
+2019-11-26 11:41:35.520 Port greutate conectat
+2019-11-26 12:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-26 12:00:00.007 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 12:00:09.026 cron backup executat cu succes s1124988_2019_11_26 12_00_00.002.gz
+2019-11-26 12:00:09.545 DB Syncronizare cloud reusita
+2019-11-26 12:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 13:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 13:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-26 13:00:08.877 cron backup executat cu succes s1124988_2019_11_26 13_00_00.002.gz
+2019-11-26 13:00:09.238 DB Syncronizare cloud reusita
+2019-11-26 13:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 14:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 14:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-26 14:00:08.860 cron backup executat cu succes s1124988_2019_11_26 14_00_00.002.gz
+2019-11-26 14:00:09.518 DB Syncronizare cloud reusita
+2019-11-26 14:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 14:56:58.609 Port lungime inchis normal
+2019-11-26 14:56:58.639 Port cantitate inchis normal
+2019-11-26 15:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-26 15:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 15:00:08.958 cron backup executat cu succes s1124988_2019_11_26 15_00_00.001.gz
+2019-11-26 15:00:09.370 DB Syncronizare cloud reusita
+2019-11-26 15:00:36.868 Port Lungime conectat
+2019-11-26 15:00:36.868 Port greutate conectat
+2019-11-26 15:24:05.365 Port lungime inchis normal
+2019-11-26 15:24:05.394 Port cantitate inchis normal
+2019-11-26 15:24:08.899 Port greutate conectat
+2019-11-26 15:24:08.902 Port Lungime conectat
+2019-11-26 15:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 15:57:10.412 Port lungime inchis normal
+2019-11-26 15:57:10.442 Port cantitate inchis normal
+2019-11-26 15:59:41.115 Port Lungime conectat
+2019-11-26 15:59:41.118 Port greutate conectat
+2019-11-26 16:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-26 16:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 16:00:08.821 cron backup executat cu succes s1124988_2019_11_26 16_00_00.002.gz
+2019-11-26 16:00:09.179 DB Syncronizare cloud reusita
+2019-11-26 16:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 16:33:35.618 Port lungime inchis normal
+2019-11-26 16:33:35.648 Port cantitate inchis normal
+2019-11-26 16:33:36.482 Port greutate conectat
+2019-11-26 16:33:36.482 Port Lungime conectat
+2019-11-26 17:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-26 17:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 17:00:08.888 cron backup executat cu succes s1124988_2019_11_26 17_00_00.001.gz
+2019-11-26 17:00:09.249 DB Syncronizare cloud reusita
+2019-11-26 17:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 18:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 18:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-26 18:00:08.922 cron backup executat cu succes s1124988_2019_11_26 18_00_00.002.gz
+2019-11-26 18:00:09.311 DB Syncronizare cloud reusita
+2019-11-26 18:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 18:34:47.171 Port lungime inchis normal
+2019-11-26 18:34:47.200 Port cantitate inchis normal
+2019-11-26 18:35:43.647 Port Lungime conectat
+2019-11-26 18:35:43.650 Port greutate conectat
+2019-11-26 18:35:55.993 Port lungime inchis normal
+2019-11-26 18:35:56.024 Port cantitate inchis normal
+2019-11-26 18:46:09.737 Port greutate conectat
+2019-11-26 18:46:09.738 Port Lungime conectat
+2019-11-26 19:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-26 19:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 19:00:09.138 cron backup executat cu succes s1124988_2019_11_26 19_00_00.002.gz
+2019-11-26 19:00:09.537 DB Syncronizare cloud reusita
+2019-11-26 19:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 20:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 20:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-26 20:00:09.031 cron backup executat cu succes s1124988_2019_11_26 20_00_00.003.gz
+2019-11-26 20:00:09.406 DB Syncronizare cloud reusita
+2019-11-26 20:07:29.899 Port lungime inchis normal
+2019-11-26 20:07:29.929 Port cantitate inchis normal
+2019-11-26 20:14:18.451 Port greutate conectat
+2019-11-26 20:14:18.451 Port Lungime conectat
+2019-11-26 20:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 20:42:10.222 Port lungime inchis normal
+2019-11-26 20:42:10.251 Port cantitate inchis normal
+2019-11-26 20:43:42.998 Port Lungime conectat
+2019-11-26 20:43:43.001 Port greutate conectat
+2019-11-26 21:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 21:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-26 21:00:08.873 cron backup executat cu succes s1124988_2019_11_26 21_00_00.003.gz
+2019-11-26 21:00:09.250 DB Syncronizare cloud reusita
+2019-11-26 21:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 22:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-26 22:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 22:00:09.183 cron backup executat cu succes s1124988_2019_11_26 22_00_00.001.gz
+2019-11-26 22:00:09.588 DB Syncronizare cloud reusita
+2019-11-26 22:04:02.266 Port lungime inchis normal
+2019-11-26 22:04:02.296 Port cantitate inchis normal
+2019-11-26 22:11:29.489 Port greutate conectat
+2019-11-26 22:11:29.489 Port Lungime conectat
+2019-11-26 22:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 23:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-26 23:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-26 23:00:08.844 cron backup executat cu succes s1124988_2019_11_26 23_00_00.002.gz
+2019-11-26 23:00:09.212 DB Syncronizare cloud reusita
+2019-11-26 23:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 00:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-27 00:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 00:00:08.876 cron backup executat cu succes s1124988_2019_11_27 00_00_00.001.gz
+2019-11-27 00:00:09.245 DB Syncronizare cloud reusita
+2019-11-27 00:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 01:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 01:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-27 01:00:08.910 cron backup executat cu succes s1124988_2019_11_27 01_00_00.002.gz
+2019-11-27 01:00:09.257 DB Syncronizare cloud reusita
+2019-11-27 01:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 02:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 02:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-27 02:00:08.897 cron backup executat cu succes s1124988_2019_11_27 02_00_00.002.gz
+2019-11-27 02:00:09.273 DB Syncronizare cloud reusita
+2019-11-27 02:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 03:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-27 03:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 03:00:08.855 cron backup executat cu succes s1124988_2019_11_27 03_00_00.001.gz
+2019-11-27 03:00:09.251 DB Syncronizare cloud reusita
+2019-11-27 03:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 04:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 04:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-27 04:00:09.009 cron backup executat cu succes s1124988_2019_11_27 04_00_00.003.gz
+2019-11-27 04:00:09.691 DB Syncronizare cloud reusita
+2019-11-27 04:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 05:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-27 05:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 05:00:08.865 cron backup executat cu succes s1124988_2019_11_27 05_00_00.002.gz
+2019-11-27 05:00:09.824 DB Syncronizare cloud reusita
+2019-11-27 05:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 06:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-27 06:00:00.007 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 06:00:08.898 cron backup executat cu succes s1124988_2019_11_27 06_00_00.003.gz
+2019-11-27 06:00:09.431 DB Syncronizare cloud reusita
+2019-11-27 06:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 07:00:00.001 generate raports !!!!!!!!!!!!
+2019-11-27 07:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 07:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-27 07:00:08.924 cron backup executat cu succes s1124988_2019_11_27 07_00_00.005.gz
+2019-11-27 07:00:09.373 DB Syncronizare cloud reusita
+2019-11-27 07:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 08:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-27 08:00:00.008 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 08:00:08.836 cron backup executat cu succes s1124988_2019_11_27 08_00_00.002.gz
+2019-11-27 08:00:09.460 DB Syncronizare cloud reusita
+2019-11-27 08:16:58.965 Port lungime inchis normal
+2019-11-27 08:16:58.996 Port cantitate inchis normal
+2019-11-27 08:18:51.188 Port Lungime conectat
+2019-11-27 08:18:51.188 Port greutate conectat
+2019-11-27 08:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 09:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 09:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-27 09:00:08.896 cron backup executat cu succes s1124988_2019_11_27 09_00_00.002.gz
+2019-11-27 09:00:09.359 DB Syncronizare cloud reusita
+2019-11-27 09:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 10:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 10:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-27 10:00:08.940 cron backup executat cu succes s1124988_2019_11_27 10_00_00.003.gz
+2019-11-27 10:00:09.279 DB Syncronizare cloud reusita
+2019-11-27 10:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 11:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-27 11:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 11:00:08.917 cron backup executat cu succes s1124988_2019_11_27 11_00_00.001.gz
+2019-11-27 11:00:09.274 DB Syncronizare cloud reusita
+2019-11-27 11:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 12:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-27 12:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 12:00:08.903 cron backup executat cu succes s1124988_2019_11_27 12_00_00.002.gz
+2019-11-27 12:00:09.319 DB Syncronizare cloud reusita
+2019-11-27 12:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 12:46:02.780 Port lungime inchis normal
+2019-11-27 12:46:02.811 Port cantitate inchis normal
+2019-11-27 12:46:31.285 Port Lungime conectat
+2019-11-27 12:46:31.285 Port greutate conectat
+2019-11-27 12:46:53.336 Port lungime inchis normal
+2019-11-27 12:46:53.366 Port cantitate inchis normal
+2019-11-27 12:46:54.153 Port Lungime conectat
+2019-11-27 12:46:54.156 Port greutate conectat
+2019-11-27 12:57:50.435 Port lungime inchis normal
+2019-11-27 12:57:50.466 Port cantitate inchis normal
+2019-11-27 12:58:33.902 Port greutate conectat
+2019-11-27 12:58:33.902 Port Lungime conectat
+2019-11-27 13:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 13:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-27 13:00:09.009 cron backup executat cu succes s1124988_2019_11_27 13_00_00.002.gz
+2019-11-27 13:00:09.437 DB Syncronizare cloud reusita
+2019-11-27 13:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 14:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 14:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-27 14:00:08.925 cron backup executat cu succes s1124988_2019_11_27 14_00_00.002.gz
+2019-11-27 14:00:09.300 DB Syncronizare cloud reusita
+2019-11-27 14:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 14:47:41.702 Port lungime inchis normal
+2019-11-27 14:47:41.732 Port cantitate inchis normal
+2019-11-27 14:47:52.278 Port Lungime conectat
+2019-11-27 14:47:52.280 Port greutate conectat
+2019-11-27 14:47:59.404 Port lungime inchis normal
+2019-11-27 14:47:59.435 Port cantitate inchis normal
+2019-11-27 14:48:11.235 Port Lungime conectat
+2019-11-27 14:48:11.238 Port greutate conectat
+2019-11-27 14:48:24.491 Port lungime inchis normal
+2019-11-27 14:48:24.522 Port cantitate inchis normal
+2019-11-27 14:48:37.418 Port greutate conectat
+2019-11-27 14:48:37.421 Port Lungime conectat
+2019-11-27 15:00:00.000 cron DB backup!!!!!!!!!!!!
+2019-11-27 15:00:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 15:00:08.909 cron backup executat cu succes s1124988_2019_11_27 15_00_00.001.gz
+2019-11-27 15:00:09.297 DB Syncronizare cloud reusita
+2019-11-27 15:30:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 16:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 16:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-27 16:00:08.884 cron backup executat cu succes s1124988_2019_11_27 16_00_00.002.gz
+2019-11-27 16:00:09.261 DB Syncronizare cloud reusita
+2019-11-27 16:05:52.279 Port lungime inchis normal
+2019-11-27 16:05:52.309 Port cantitate inchis normal
+2019-11-27 16:07:02.182 Port greutate conectat
+2019-11-27 16:07:02.185 Port Lungime conectat
+2019-11-27 16:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 17:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-27 17:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 17:00:09.186 cron backup executat cu succes s1124988_2019_11_27 17_00_00.001.gz
+2019-11-27 17:00:09.605 DB Syncronizare cloud reusita
+2019-11-27 17:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 18:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 18:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-27 18:00:08.901 cron backup executat cu succes s1124988_2019_11_27 18_00_00.002.gz
+2019-11-27 18:00:09.288 DB Syncronizare cloud reusita
+2019-11-27 18:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 19:00:00.000 cron DB backup!!!!!!!!!!!!
+2019-11-27 19:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 19:00:08.864 cron backup executat cu succes s1124988_2019_11_27 19_00_00.001.gz
+2019-11-27 19:00:09.250 DB Syncronizare cloud reusita
+2019-11-27 19:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 20:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 20:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-27 20:00:08.878 cron backup executat cu succes s1124988_2019_11_27 20_00_00.002.gz
+2019-11-27 20:00:09.239 DB Syncronizare cloud reusita
+2019-11-27 20:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 21:00:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 21:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-27 21:00:08.913 cron backup executat cu succes s1124988_2019_11_27 21_00_00.003.gz
+2019-11-27 21:00:09.313 DB Syncronizare cloud reusita
+2019-11-27 21:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 22:00:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 22:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-27 22:00:08.881 cron backup executat cu succes s1124988_2019_11_27 22_00_00.003.gz
+2019-11-27 22:00:09.300 DB Syncronizare cloud reusita
+2019-11-27 22:30:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 23:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-27 23:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-27 23:00:08.872 cron backup executat cu succes s1124988_2019_11_27 23_00_00.002.gz
+2019-11-27 23:00:09.256 DB Syncronizare cloud reusita
+2019-11-27 23:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 00:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 00:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-28 00:00:09.090 cron backup executat cu succes s1124988_2019_11_28 00_00_00.002.gz
+2019-11-28 00:00:09.467 DB Syncronizare cloud reusita
+2019-11-28 00:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 01:00:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 01:00:00.003 cron DB backup!!!!!!!!!!!!
+2019-11-28 01:00:08.896 cron backup executat cu succes s1124988_2019_11_28 01_00_00.003.gz
+2019-11-28 01:00:09.343 DB Syncronizare cloud reusita
+2019-11-28 01:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 02:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 02:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-28 02:00:08.898 cron backup executat cu succes s1124988_2019_11_28 02_00_00.001.gz
+2019-11-28 02:00:09.278 DB Syncronizare cloud reusita
+2019-11-28 02:30:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 03:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 03:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-28 03:00:08.943 cron backup executat cu succes s1124988_2019_11_28 03_00_00.002.gz
+2019-11-28 03:00:09.337 DB Syncronizare cloud reusita
+2019-11-28 03:30:00.000 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 04:53:52.614 Server started at port 3000!
+2019-11-28 05:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 05:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-28 05:00:08.483 cron backup executat cu succes s1124988_2019_11_28 05_00_00.002.gz
+2019-11-28 05:00:09.624 DB Syncronizare cloud reusita
+2019-11-28 05:11:19.877 Port greutate conectat
+2019-11-28 05:11:19.880 Port Lungime conectat
+2019-11-28 05:13:19.611 Port lungime inchis normal
+2019-11-28 05:13:19.640 Port cantitate inchis normal
+2019-11-28 05:13:52.129 Port greutate conectat
+2019-11-28 05:13:52.131 Port Lungime conectat
+2019-11-28 05:30:00.003 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 06:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 06:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-28 06:00:08.594 cron backup executat cu succes s1124988_2019_11_28 06_00_00.002.gz
+2019-11-28 06:00:09.157 DB Syncronizare cloud reusita
+2019-11-28 06:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 07:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 07:00:00.002 generate raports !!!!!!!!!!!!
+2019-11-28 07:00:00.005 cron DB backup!!!!!!!!!!!!
+2019-11-28 07:00:08.336 cron backup executat cu succes s1124988_2019_11_28 07_00_00.005.gz
+2019-11-28 07:00:08.709 DB Syncronizare cloud reusita
+2019-11-28 07:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 08:00:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 08:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-28 08:00:08.324 cron backup executat cu succes s1124988_2019_11_28 08_00_00.002.gz
+2019-11-28 08:00:08.720 DB Syncronizare cloud reusita
+2019-11-28 08:30:00.002 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 09:00:00.001 cron DB backup!!!!!!!!!!!!
+2019-11-28 09:00:00.005 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 09:00:08.576 cron backup executat cu succes s1124988_2019_11_28 09_00_00.001.gz
+2019-11-28 09:00:08.994 DB Syncronizare cloud reusita
+2019-11-28 09:29:14.189 Port lungime inchis normal
+2019-11-28 09:29:14.219 Port cantitate inchis normal
+2019-11-28 09:30:00.001 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 09:30:31.308 Port Lungime conectat
+2019-11-28 09:30:31.311 Port greutate conectat
+2019-11-28 10:00:00.002 cron DB backup!!!!!!!!!!!!
+2019-11-28 10:00:00.006 ################# cron --delete c:\SanCloud\tmp\ fisiere mai vechi de 30 minute
+2019-11-28 10:00:08.300 cron backup executat cu succes s1124988_2019_11_28 10_00_00.002.gz
+2019-11-28 10:00:08.676 DB Syncronizare cloud reusita
+2019-11-28 10:05:23.942 Port lungime inchis normal
+2019-11-28 10:05:23.972 Port cantitate inchis normal

@@ -1,0 +1,44 @@
+
+INSERT INTO cantarire_2019
+SELECT c.uid,
+	CONCAT('REEL',pozitie_tambur) AS tambur,
+	p.uid AS bobina,
+	CASE 
+		WHEN np.cod_sort IS NULL AND c.cod_produs LIKE 'TL%' THEN 'EL'
+		WHEN np.cod_sort IS NULL AND c.cod_produs LIKE 'EL%' THEN 'EL'
+		WHEN np.cod_sort IS NULL AND c.cod_produs LIKE 'MD%' THEN 'WL'
+		WHEN np.cod_sort IS NULL AND c.cod_produs LIKE 'MHPP%' THEN 'WL'
+		WHEN np.cod_sort IS NULL AND c.cod_produs LIKE 'WL%' THEN 'WL'
+		ELSE np.cod_sort
+	END AS cod_sort,
+	CASE 
+		WHEN np.den_sort IS NULL AND c.cod_produs LIKE 'TL%' THEN 'ECOLINER'
+		WHEN np.den_sort IS NULL AND c.cod_produs LIKE 'EL%' THEN 'ECOLINER'
+		WHEN np.den_sort IS NULL AND c.cod_produs LIKE 'MD%' THEN 'WELLENSTOFF'
+		WHEN np.den_sort IS NULL AND c.cod_produs LIKE 'MHPP%' THEN 'WELLENSTOFF'
+		WHEN np.den_sort IS NULL AND c.cod_produs LIKE 'WL%' THEN 'WELLENSTOFF'
+		ELSE np.den_sort
+	END AS den_sort,
+	CASE 
+		WHEN np.cpsa IS NULL AND c.cod_produs LIKE 'TL%' THEN '30'
+		WHEN np.cpsa IS NULL AND c.cod_produs LIKE 'EL%' THEN '30'
+		WHEN np.cpsa IS NULL AND c.cod_produs LIKE 'MD%' THEN '41'
+		WHEN np.cpsa IS NULL AND c.cod_produs LIKE 'MHPP%' THEN '41'
+		WHEN np.cpsa IS NULL AND c.cod_produs LIKE 'WL%' THEN '41'
+		ELSE np.cpsa
+	END AS cod_cepi,
+	IF(gramaj IS NULL,SUBSTRING(c.cod_produs,LOCATE('/',c.cod_produs)+1),gramaj) AS gramaj,
+	c.client,
+	IF(f.nume IS NULL,'',f.nume) AS DEN_CLIENT,
+	NR_TAMBUR,NR_BOBINA,TURA,LATIME,LUNGIME,DIAM_INTERIOR,DIAM_EXTERIOR,DIAM_EXTERIOR AS DIAM_TRADUCTOR,GREUTATE,
+	CONCAT(DATE_FORMAT(DATA,'%Y-%m-%d'),' ',time_op)  AS DATA,
+	'' AS codop            
+	FROM cantarire c
+	LEFT OUTER JOIN planificare p ON c.bobina=p.uid
+	LEFT OUTER JOIN nomf f ON f.cod=c.client
+	LEFT OUTER JOIN (
+		SELECT p1.codp,p2.cpsa,p1.gramaj,TRIM(REPLACE(p2.denumire,'SORTIMENTUL','')) AS den_sort,p2.codp AS cod_sort FROM nomp p1 
+		LEFT OUTER JOIN nomp p2 ON p2.codp=p1.par
+		WHERE p1.par!='' ) np ON np.codp=c.cod_produs
+
+
