@@ -26,7 +26,7 @@
       "stopBits": 1
     }
   },
-  "urlsyncCloud": "https://suport.san.ro/viewer/report/Test/sync.jsp",
+  "urlsyncCloud": "https://s1.cloud-erp.ro/viewer/drivere/DsSmith/sync.jsp",
   "bobina_CSV": {
     "pathTMP":"c:/SanCloud/generatedReels/",
     "path_WMS":"c:/tmp1/",

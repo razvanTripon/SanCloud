@@ -1,34 +1,102 @@
 var moment = require('moment');
 var setari = require.main.require("./setari");
-var mysqldump = require('mysqldump');
 var request = require('request');
-var encryptor = require('file-encryptor');
 var fs = require('fs');
+const zlib = require('zlib');
+var pool = require('../databaseConnection');
+
+
+async function getPathMysqlDump() {
+	try {
+		const sqlText = `SELECT VARIABLE_VALUE FROM information_schema.GLOBAL_VARIABLES WHERE VARIABLE_NAME='BASEDIR'`
+		const result = await pool.query(sqlText);
+		let path = result[0][0]["VARIABLE_VALUE"] + "bin/";
+		path = path.replace(/\\/g, "/");
+		pathR=path.substr(0,path.indexOf("/")+1);
+		pathrest='"'+path.substr(path.indexOf("/")+1)+'"'
+		path=pathR+pathrest
+		return path;
+
+	} catch (err) {
+		throw new Error(err);
+	}
+}
+
+async function checkTabela(tableName) {
+    try {
+        const result = await pool.query(`SHOW TABLES LIKE ?`, [tableName])
+            .catch((err) => {
+                throw new Error(err)
+            })
+        return result[0][0] ? true : false;
+    } catch (err) {
+        throw new Error(err)
+    }
+
+}
+
+async function getTabeleBackup(){
+	const tables=["nomf","nomp"];
+	try{
+		const mmn = moment().format('YYYY');
+		const cantarire_cr=`cantarire_${mmn}`;
+		const planificare_cr=`planificare_${mmn}`;
+		const check_1 = await checkTabela(cantarire_cr);
+		const check_2 = await checkTabela(planificare_cr);
+		if(check_1) tables.push(cantarire_cr);
+		if(check_2) tables.push(planificare_cr);
+		return tables;
+
+	}catch(err){
+		return tables
+	}
+}
+
+async function execShellCommand(cmd) {
+	const exec = require('child_process').exec;
+	return new Promise((resolve, reject) => {
+		exec(cmd, (error, stdout, stderr) => {
+			if (error) {
+				console.warn(error);
+			}
+			resolve(stdout ? stdout : stderr);
+		});
+	});
+}
+
+async function zipFile(filename, filenameGZ) {
+	return new Promise((resolve, reject) => {
+		const fileContents = fs.createReadStream(filename);
+		const writeStream = fs.createWriteStream(filenameGZ);
+		const zip = zlib.createGzip();
+		fileContents.pipe(zip).pipe(writeStream).on('finish', (err) => {
+			if (err) return reject(err);
+			else resolve();
+		})
+	})
+}
 
 async function dumpDB() {
-	const mmn = moment().format('YYYY_MM_DD HH_mm_ss_SSS');
-	const fileName = `s1124988_${mmn}.sql.gz`;
+	const mmn = moment().format('YYYY_MM_DD_HH_mm_ss_SSS');
+	const fileName = `s1124988_${mmn}.sql`;
 	const fileDump = `${setari.pathToTemp}/${fileName}`;
-	const fileEncripted = `${setari.pathToTemp}/${fileName}.encr`;
+	const fileNameGZ = fileName + ".gz"
+	const fileDumpGZ = `${setari.pathToTemp}/${fileNameGZ}`;
 	deleteFile(fileDump);
-	deleteFile(fileEncripted);
+	deleteFile(fileDumpGZ);
 
-	await mysqldump({
-		connection: setari.mysqlConfig,
-		dumpToFile: fileDump,
-		compressFile: true,
-		dump: {
-			schema: {
-				table: {
-					dropIfExist: true
-				}
-			}
-		}
-	}).then(() => {
-		saveToFolders(fileName,fileDump);
-		encrypt(fileDump,fileEncripted)
-		//sendToCloud(fileDump)
-	})
+	const tabele=await getTabeleBackup();
+	const tabeleBackup=tabele.join(" ");
+	pathMysqlDump= await getPathMysqlDump();
+	const command = pathMysqlDump+`mysqldump -u${setari.mysqlConfig.user} -p${setari.mysqlConfig.password} -h ${setari.mysqlConfig.host} --compact ${setari.mysqlConfig.database} --add-drop-table --ignore-table=${setari.mysqlConfig.database}.firma ${tabeleBackup} >${fileDump}`
+
+	await execShellCommand(command)
+		.then(() => {
+			zipFile(fileDump, fileDumpGZ).then(() => {
+				saveToFolders(fileNameGZ, fileDumpGZ);
+				sendToCloud(fileDumpGZ)
+			})
+		})
 	return fileName
 }
 
@@ -40,7 +108,8 @@ function deleteFile(path) {
 		}
 	})
 }
-function saveToFolders(fileName,fileDump) {
+
+function saveToFolders(fileName, fileDump) {
 	setari.pathToBackup.forEach(path => {
 		if (!fs.existsSync(path)) {
 			fs.mkdirSync(path);
@@ -50,17 +119,6 @@ function saveToFolders(fileName,fileDump) {
 			if (err) throw err;
 		});
 	})
-}
-
-function encrypt(fileDump,fileEncripted) {
-	var key = 'My Super Secret Key';
-	encryptor.encryptFile(fileDump, fileEncripted, key, function (err) {
-		sendToCloud(fileEncripted);
-	});
-	//	sendToCloud(fileDump);
-	// encryptor.decryptFile('./backups/encrypted.gz', './backups/bun.gz', key, function(err) {
-	// 	// Decryption complete.
-	//   });
 }
 
 function sendToCloud(fileDB) {
